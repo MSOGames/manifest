@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "hub": {
+        "version": "1.0.14",
+        "releaseDate": "2026-01-19",
+        "releaseNotes": "Use PowerShell for reliable zip extraction on Windows",
+        "platforms": {
+            "win32-x64": {
+                "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.14/MSOHub-Setup-1.0.14.exe",
+                "size": 96201054,
+                "sha256": "31ca5b2b4a90ea01fda3afc8dd2fa1faac5f3460f09c917906a259ccb9651724"
+            }
+        }
+    },
+    "games": {
+        "freecell": {
+            "version": "1.1.18",
+            "releaseDate": "2026-01-19",
+            "releaseNotes": "Update system testing",
+            "platforms": {
+                "win32-x64": {
+                    "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.18/MSOFreecell-1.1.18-win32-x64.zip",
+                    "size": 139261434,
+                    "sha256": "d9c28ee620474f69f1ae01f1abaab2128f27180c4992ed1ae86bbd789560fdc5"
+                }
+            }
+        }
+    }
+}
