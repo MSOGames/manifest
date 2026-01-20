@@ -6,7 +6,7 @@
     "releaseNotes": "Fetch manifest directly from GitHub",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.15/MSOHub-Setup-1.0.15.exe",
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.15/MSOHub-Setup.exe",
         "size": 96201082,
         "sha256": "2214e0fe18579e78542f0061d9105cc2687db50ce25a6f75122212c540298085"
       }
