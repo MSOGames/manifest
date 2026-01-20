@@ -14,14 +14,14 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.19",
+      "version": "1.1.20",
       "releaseDate": "2026-01-20",
-      "releaseNotes": "Bundles Hub installer for fresh installs",
+      "releaseNotes": "Ensures Hub is running on startup for auth",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.19/MSOFreecell-1.1.19-win32-x64.zip",
-          "size": 235461329,
-          "sha256": "c2cf2f400e6c374fa4ce47aea657df12213d52cec4b2158a81e1598eb49b1004"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.20/MSOFreecell-1.1.20-win32-x64.zip",
+          "size": 235462248,
+          "sha256": "1b56725248bf0f2050b82f034497a53f7420e8260c98f6ecb46574c173cb1425"
         }
       }
     }
