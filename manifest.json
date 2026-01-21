@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "hub": {
-    "version": "1.0.15",
+    "version": "1.0.16",
     "releaseDate": "2026-01-20",
-    "releaseNotes": "Fetch manifest directly from GitHub",
+    "releaseNotes": "IPC protocol updates",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.15/MSOHub-Setup.exe",
-        "size": 96201082,
-        "sha256": "2214e0fe18579e78542f0061d9105cc2687db50ce25a6f75122212c540298085"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.16/MSOHub-Setup.exe",
+        "size": 96211643,
+        "sha256": "23a39e76abbb3fcf819217f895610d09bc2359641b747899d5c652564cfad6eb"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.20",
+      "version": "1.1.21",
       "releaseDate": "2026-01-20",
-      "releaseNotes": "Ensures Hub is running on startup for auth",
+      "releaseNotes": "Shared UI refactor, Hub IPC updates",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.20/MSOFreecell-1.1.20-win32-x64.zip",
-          "size": 235462248,
-          "sha256": "1b56725248bf0f2050b82f034497a53f7420e8260c98f6ecb46574c173cb1425"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.21/MSOFreecell-1.1.21-win32-x64.zip",
+          "size": 235462705,
+          "sha256": "69af53587e230ed4b64c7449cbba39def0b642c263429492b7570e87af72bc76"
         }
       }
     }
