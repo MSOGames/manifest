@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.19",
+    "version": "1.0.20",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "UI fixes and improvements",
+    "releaseNotes": "Registry path handling improvements",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.19/MSOHub-Setup.exe",
-        "size": 96242922,
-        "sha256": "2710f6dde3a5c367d74734b5ba26bc685dc786b4bb18b12f7c1296e73eb9e377"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.20/MSOHub-Setup.exe",
+        "size": 96243136,
+        "sha256": "04b9a8d6bf27a7ea2b73aceeed7a337ff38397ef11e8856cbe2699cb8a5e8cb1"
       }
     }
   },
