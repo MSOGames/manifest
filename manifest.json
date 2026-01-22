@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "hub": {
+    "version": "1.0.17",
+    "releaseDate": "2026-01-21",
+    "releaseNotes": "Fix auth window focus, include tray icon",
+    "platforms": {
+      "win32-x64": {
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.17/MSOHub-Setup.exe",
+        "size": 96239339,
+        "sha256": "28a387f769818da4796b439a6a851b233f3e437e9c4417bdbe6531ba57a5727a"
+      }
+    }
+  },
+  "games": {
+    "freecell": {
+      "version": "1.1.22",
+      "releaseDate": "2026-01-21",
+      "releaseNotes": "Hub startup requirement, IPC improvements",
+      "platforms": {
+        "win32-x64": {
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.22/MSOFreecell-1.1.22-win32-x64.zip",
+          "size": 235496310,
+          "sha256": "663d939768433473b1e285775dbf61bc5ac40a025854b03e43bb0edaba381230"
+        }
+      }
+    }
+  }
+}
