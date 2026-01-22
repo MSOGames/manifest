@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.21",
+    "version": "1.0.22",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "Update system enhancements",
+    "releaseNotes": "Update system improvements",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.21/MSOHub-Setup.exe",
-        "size": 96243641,
-        "sha256": "110c2b807a2883f91c0b8ecbd96ff9656fb69f9bce3971e35ed106b4ca54758c"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.22/MSOHub-Setup.exe",
+        "size": 96243949,
+        "sha256": "c597e76ad89089621f8e7f9d25128d0efc4fce5e469148138dc26ca3cad50734"
       }
     }
   },
