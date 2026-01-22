@@ -14,14 +14,14 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.24",
+      "version": "1.1.26",
       "releaseDate": "2026-01-22",
-      "releaseNotes": "Properly signed with Azure Trusted Signing",
+      "releaseNotes": "Fixed CSS bundling issue that caused card rendering corruption in production builds.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.24/Freecell-Setup.exe",
-          "size": 197866704,
-          "sha256": "1520df5bb6428dab8d8190e9ae44cc928c9e72c22154644e7ad98e9a6e81cdba"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.26/Freecell-Setup.exe",
+          "size": 197878472,
+          "sha256": "cd10e04225fe715d5be5cca66388cef914de6e5248b1b51cb56f246b6b5873ee"
         }
       }
     }
