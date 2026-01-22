@@ -1,27 +1,27 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.23",
+    "version": "1.0.25",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "Azure Trusted Signing enabled",
+    "releaseNotes": "Fixed bug where Hub would offer to update to older versions.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.23/MSOHub-Setup.exe",
-        "size": 96288600,
-        "sha256": "a007a1528be82e890d783fe91be963650699cdd179e850277fbcfc58be412d9c"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.25/MSOHub-Setup.exe",
+        "size": 96288552,
+        "sha256": "b6e31e44b972a740e71d7ccc6945fbb758cabade187976681ee07f18cae10959"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.26",
+      "version": "1.1.27",
       "releaseDate": "2026-01-22",
-      "releaseNotes": "Fixed CSS bundling issue that caused card rendering corruption in production builds.",
+      "releaseNotes": "Bundles Hub 1.0.25 with stale update fix.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.26/Freecell-Setup.exe",
-          "size": 197878472,
-          "sha256": "cd10e04225fe715d5be5cca66388cef914de6e5248b1b51cb56f246b6b5873ee"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.27/Freecell-Setup.exe",
+          "size": 197878608,
+          "sha256": "bf872dcd932d98a0d191fa2dedd9fbc6cb67ccfc8d88693c6accfd0ad6d7b93c"
         }
       }
     }
