@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.18",
+    "version": "1.0.19",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "Switch to installer-based game updates",
+    "releaseNotes": "UI fixes and improvements",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.18/MSOHub-Setup.exe",
-        "size": 96242885,
-        "sha256": "c88014b4680dab7cbe9e618fe846d8bc83adfdb415765f3765b11ea02ec072ed"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.19/MSOHub-Setup.exe",
+        "size": 96242922,
+        "sha256": "2710f6dde3a5c367d74734b5ba26bc685dc786b4bb18b12f7c1296e73eb9e377"
       }
     }
   },
