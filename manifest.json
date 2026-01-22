@@ -1,27 +1,27 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.22",
+    "version": "1.0.23",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "Update system improvements",
+    "releaseNotes": "Azure Trusted Signing enabled",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.22/MSOHub-Setup.exe",
-        "size": 96243949,
-        "sha256": "c597e76ad89089621f8e7f9d25128d0efc4fce5e469148138dc26ca3cad50734"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.23/MSOHub-Setup.exe",
+        "size": 96288600,
+        "sha256": "a007a1528be82e890d783fe91be963650699cdd179e850277fbcfc58be412d9c"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.23",
+      "version": "1.1.24",
       "releaseDate": "2026-01-22",
-      "releaseNotes": "Hub-managed updates, IPC improvements",
+      "releaseNotes": "Properly signed with Azure Trusted Signing",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.23/Freecell-Setup.exe",
-          "size": 197781899,
-          "sha256": "2793e1e28a2d8ad4a4aa8ba7b6772c1562caf2a937a51395335df29381788bc9"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.24/Freecell-Setup.exe",
+          "size": 197866704,
+          "sha256": "1520df5bb6428dab8d8190e9ae44cc928c9e72c22154644e7ad98e9a6e81cdba"
         }
       }
     }
