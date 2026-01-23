@@ -1,27 +1,27 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.25",
+    "version": "1.0.26",
     "releaseDate": "2026-01-22",
-    "releaseNotes": "Fixed bug where Hub would offer to update to older versions.",
+    "releaseNotes": "System notifications for update detection and completion. Dynamic tray menu shows update progress.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.25/MSOHub-Setup.exe",
-        "size": 96288552,
-        "sha256": "b6e31e44b972a740e71d7ccc6945fbb758cabade187976681ee07f18cae10959"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.26/MSOHub-Setup.exe",
+        "size": 96289040,
+        "sha256": "e7cc294f0feb8e09b9185aa5e05a10be363b30fec2978cb2e1cf37d044ebcb20"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.27",
+      "version": "1.1.28",
       "releaseDate": "2026-01-22",
-      "releaseNotes": "Bundles Hub 1.0.25 with stale update fix.",
+      "releaseNotes": "Bundles Hub 1.0.26 with update notifications.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.27/Freecell-Setup.exe",
-          "size": 197878608,
-          "sha256": "bf872dcd932d98a0d191fa2dedd9fbc6cb67ccfc8d88693c6accfd0ad6d7b93c"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.28/Freecell-Setup.exe",
+          "size": 197879200,
+          "sha256": "f3e7d12778a64655ff67de742b72cf330dc58a950572705ea92aa35874d8d08e"
         }
       }
     }
