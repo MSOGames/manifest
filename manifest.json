@@ -19,9 +19,9 @@
       "releaseNotes": "Bundles Hub 1.0.27.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.29/Freecell-Setup.exe",
-          "size": 197885824,
-          "sha256": "0da09789eb766d15466a12c394c6d3c542c940f2029ac234f7340cd66f9b134a"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.29/Freecell-Update.exe",
+          "size": 101612160,
+          "sha256": "be4e152b76298d4f614189fb781c95b4520c1dc3e1783ef42aa20e9f36d88c8d"
         }
       }
     }
