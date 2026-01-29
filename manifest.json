@@ -14,14 +14,14 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.29",
+      "version": "1.1.30",
       "releaseDate": "2026-01-25",
-      "releaseNotes": "Bundles Hub 1.0.27.",
+      "releaseNotes": "Audio, tooltip, and UI improvements.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.29/Freecell-Update.exe",
-          "size": 101612160,
-          "sha256": "be4e152b76298d4f614189fb781c95b4520c1dc3e1783ef42aa20e9f36d88c8d"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.30/Freecell-Update.exe",
+          "size": 101646912,
+          "sha256": "caa220e8a162908353272876055e556ae4cf229300e8af6341f2e07bce117361"
         }
       }
     }
