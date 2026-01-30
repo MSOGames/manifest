@@ -1,27 +1,27 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.27",
-    "releaseDate": "2026-01-25",
+    "version": "1.0.28",
+    "releaseDate": "2026-01-30",
     "releaseNotes": "Bug fixes and improvements.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.27/MSOHub-Setup.exe",
-        "size": 96291416,
-        "sha256": "4d4f50b8c2dd5013e6948ff0a423a764d5566a14214814f53b5d2766b934a6e1"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.28/MSOHub-Setup.exe",
+        "size": 96292216,
+        "sha256": "7ecba6e0b9c98a5b6e2a3a016040cbfdc5e08d511d6d6aa1514bcc6a6c3beee1"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.30",
-      "releaseDate": "2026-01-25",
-      "releaseNotes": "Audio, tooltip, and UI improvements.",
+      "version": "1.1.31",
+      "releaseDate": "2026-01-30",
+      "releaseNotes": "Fix win modal time display, code refactoring.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.30/Freecell-Update.exe",
-          "size": 101646912,
-          "sha256": "caa220e8a162908353272876055e556ae4cf229300e8af6341f2e07bce117361"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.31/Freecell-Update.exe",
+          "size": 101645736,
+          "sha256": "462fce1a80902fb8bbd39851ed1c403c9be0d34700a53cb57585abeaaadf0e31"
         }
       }
     }
