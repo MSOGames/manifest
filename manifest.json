@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.29",
+    "version": "1.0.30",
     "releaseDate": "2026-01-30",
-    "releaseNotes": "Fix Play and Get buttons.",
+    "releaseNotes": "Clear pending update on install failure.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.29/MSOHub-Setup.exe",
-        "size": 96292048,
-        "sha256": "cc2cdc759ae77268050e3fa85002dac01a19e58a2bd3bcedbcde9f3635f52cd4"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.30/MSOHub-Setup.exe",
+        "size": 96292264,
+        "sha256": "8e51fc2617a17cb5475cc656535d9d5ebacab1b501ed48a6d7c7da65647ccca5"
       }
     }
   },
@@ -22,6 +22,18 @@
           "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.31/Freecell-Update.exe",
           "size": 101645736,
           "sha256": "462fce1a80902fb8bbd39851ed1c403c9be0d34700a53cb57585abeaaadf0e31"
+        }
+      }
+    },
+    "minesweeper": {
+      "version": "1.0.3",
+      "releaseDate": "2026-01-30",
+      "releaseNotes": "Add win sounds.",
+      "platforms": {
+        "win32-x64": {
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.3/Minesweeper-Update.exe",
+          "size": 96898800,
+          "sha256": "5fcd24011a4c49cfd95a13dbc428b3d2909d206f94e67bf8affcb1637a62f012"
         }
       }
     }
