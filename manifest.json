@@ -26,14 +26,14 @@
       }
     },
     "minesweeper": {
-      "version": "1.0.3",
-      "releaseDate": "2026-01-30",
-      "releaseNotes": "Add win sounds.",
+      "version": "1.0.5",
+      "releaseDate": "2026-01-31",
+      "releaseNotes": "Fix productName, replay recording, click counting.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.3/Minesweeper-Update.exe",
-          "size": 96898800,
-          "sha256": "5fcd24011a4c49cfd95a13dbc428b3d2909d206f94e67bf8affcb1637a62f012"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.5/Minesweeper-Update.exe",
+          "size": 96898872,
+          "sha256": "b2b2abcf1f468aa55f3973d3b3b310ffef847f4d1c5021a42525796e2e03b99b"
         }
       }
     }
