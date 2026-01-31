@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.28",
+    "version": "1.0.29",
     "releaseDate": "2026-01-30",
-    "releaseNotes": "Bug fixes and improvements.",
+    "releaseNotes": "Fix Play and Get buttons.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.28/MSOHub-Setup.exe",
-        "size": 96292216,
-        "sha256": "7ecba6e0b9c98a5b6e2a3a016040cbfdc5e08d511d6d6aa1514bcc6a6c3beee1"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.29/MSOHub-Setup.exe",
+        "size": 96292048,
+        "sha256": "cc2cdc759ae77268050e3fa85002dac01a19e58a2bd3bcedbcde9f3635f52cd4"
       }
     }
   },
