@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.31",
-      "releaseDate": "2026-01-30",
-      "releaseNotes": "Fix win modal time display, code refactoring.",
+      "version": "1.1.32",
+      "releaseDate": "2026-01-31",
+      "releaseNotes": "Update insight key maps.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.31/Freecell-Update.exe",
-          "size": 101645736,
-          "sha256": "462fce1a80902fb8bbd39851ed1c403c9be0d34700a53cb57585abeaaadf0e31"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.32/Freecell-Update.exe",
+          "size": 101645712,
+          "sha256": "0140f838ec50dfdba0c15ebe978c3ecd98633899761aee94b96f965da79e6ac7"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "releaseDate": "2026-01-31",
-      "releaseNotes": "Fix productName, replay recording, click counting.",
+      "releaseNotes": "Update insight key maps.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.5/Minesweeper-Update.exe",
-          "size": 96898872,
-          "sha256": "b2b2abcf1f468aa55f3973d3b3b310ffef847f4d1c5021a42525796e2e03b99b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.6/Minesweeper-Update.exe",
+          "size": 96898952,
+          "sha256": "2cc50b2ef911252c01da4c6cad5dceda2447dedac7ebed4732d30933aa343e4a"
         }
       }
     }
