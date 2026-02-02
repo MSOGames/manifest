@@ -7,8 +7,8 @@
     "platforms": {
       "win32-x64": {
         "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.34/MSOHub-Setup.exe",
-        "size": 96292256,
-        "sha256": "7475a5b6710830543caf97a633105e14ddb50d8fd5b98b7ecc97bc2f8da77523"
+        "size": 96292280,
+        "sha256": "451498b556ffa6be252fa7fb94948ae3c1b33c434f2da4f3d925274aaf73f914"
       }
     }
   },
