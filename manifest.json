@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.33",
+      "version": "1.1.34",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix deep link race condition for challenge links.",
+      "releaseNotes": "Lift shared challenge setup into BaseChallengeManager.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.33/Freecell-Update.exe",
-          "size": 101645952,
-          "sha256": "2dc4d3edbbc7e46bbe3fc680737cfbbc50636993017b6621dfce0afa4379ae91"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.34/Freecell-Update.exe",
+          "size": 101645600,
+          "sha256": "cd3088b985b0b36b9c46bc17843c4423ae69a1f7a832abed6549b972a30eae2f"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.9",
+      "version": "1.0.11",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Remove threebvs/ioe from challenge result data.",
+      "releaseNotes": "Fix challenge: use challenge seed, detect challenge mode.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.9/Minesweeper-Update.exe",
-          "size": 96901088,
-          "sha256": "ed037fa9a9ecef5785644a16f50422e0c5fb32ec815c780af40f691cbd9ad971"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.11/Minesweeper-Update.exe",
+          "size": 96901288,
+          "sha256": "1ab386b0ffd76f36686bc84ef3dde082f1023a8d3e2ef0fc475c502b52325511"
         }
       }
     }
