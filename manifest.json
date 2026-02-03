@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.34",
+      "version": "1.1.35",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Lift shared challenge setup into BaseChallengeManager.",
+      "releaseNotes": "Use server-provided top_players for challenge win modals.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.34/Freecell-Update.exe",
-          "size": 101645600,
-          "sha256": "cd3088b985b0b36b9c46bc17843c4423ae69a1f7a832abed6549b972a30eae2f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.35/Freecell-Update.exe",
+          "size": 101646072,
+          "sha256": "88907e32ebed14a765c48a349ce0eff0d0a73a79d459e14a97b6d82533678a41"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.11",
+      "version": "1.0.12",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix challenge: use challenge seed, detect challenge mode.",
+      "releaseNotes": "Use server-provided top_players for challenge win modals.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.11/Minesweeper-Update.exe",
-          "size": 96901288,
-          "sha256": "1ab386b0ffd76f36686bc84ef3dde082f1023a8d3e2ef0fc475c502b52325511"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.12/Minesweeper-Update.exe",
+          "size": 96901384,
+          "sha256": "dc11d08223f7c58cd5ecacf7822d26ddb406a5ba2b53fe66b51c6c91ec53c9f1"
         }
       }
     }
