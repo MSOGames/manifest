@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.35",
+      "version": "1.1.36",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Use server-provided top_players for challenge win modals.",
+      "releaseNotes": "Fix challenge notification, duplicate players, and CSS issues.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.35/Freecell-Update.exe",
-          "size": 101646072,
-          "sha256": "88907e32ebed14a765c48a349ce0eff0d0a73a79d459e14a97b6d82533678a41"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.36/Freecell-Update.exe",
+          "size": 101646176,
+          "sha256": "3ff4251de5b6926fb459ef1782d91e7903f4dca62915762376f5f8aa560ffc0f"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.12",
+      "version": "1.0.13",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Use server-provided top_players for challenge win modals.",
+      "releaseNotes": "Fix challenge notification, duplicate players, and CSS issues.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.12/Minesweeper-Update.exe",
-          "size": 96901384,
-          "sha256": "dc11d08223f7c58cd5ecacf7822d26ddb406a5ba2b53fe66b51c6c91ec53c9f1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.13/Minesweeper-Update.exe",
+          "size": 96902376,
+          "sha256": "549cf4e9115e3134a5939de42ef7fc860d452d54c35875c883095f00d8c42e88"
         }
       }
     }
