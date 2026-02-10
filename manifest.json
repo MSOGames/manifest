@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.37",
+      "version": "1.1.38",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix challenge notification view: use challenge seed/difficulty.",
+      "releaseNotes": "Fix stale resultId causing Could not load stats error.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.37/Freecell-Update.exe",
-          "size": 101646664,
-          "sha256": "9f9c5896e8d51ba2b53b94c3520a8fd7d0b80e7ad3934a46620fbd136eb12a97"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.38/Freecell-Update.exe",
+          "size": 101645992,
+          "sha256": "f2264d126f164a90edbe1f0c8f0ccbe86c35a66eccbeecf48f9a45becaa705ea"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix challenge notification modal not displaying.",
+      "releaseNotes": "Fix stale resultId causing Could not load stats error.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.15/Minesweeper-Update.exe",
-          "size": 96902512,
-          "sha256": "1e79c74c7e50451752a4d6b7879a49ae07b1d023a8b3d839f71245813ccead5f"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.16/Minesweeper-Update.exe",
+          "size": 96902640,
+          "sha256": "a8b6774e79daf1c37cdd6a731b8455f77ef7dd63ca30b21a86adcd661218eccb"
         }
       }
     }
