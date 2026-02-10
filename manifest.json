@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.38",
-      "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix stale resultId causing Could not load stats error.",
+      "version": "1.1.39",
+      "releaseDate": "2026-02-09",
+      "releaseNotes": "Consolidate win flow into shared base classes.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.38/Freecell-Update.exe",
-          "size": 101645992,
-          "sha256": "f2264d126f164a90edbe1f0c8f0ccbe86c35a66eccbeecf48f9a45becaa705ea"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.39/Freecell-Update.exe",
+          "size": 101647840,
+          "sha256": "ac0227583f0e0e8b133489d081514dabbc158036694494a01b4e8895a706c163"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.16",
-      "releaseDate": "2026-02-02",
-      "releaseNotes": "Fix stale resultId causing Could not load stats error.",
+      "version": "1.0.17",
+      "releaseDate": "2026-02-09",
+      "releaseNotes": "Consolidate win flow, fix Top Players highlight.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.16/Minesweeper-Update.exe",
-          "size": 96902640,
-          "sha256": "a8b6774e79daf1c37cdd6a731b8455f77ef7dd63ca30b21a86adcd661218eccb"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.17/Minesweeper-Update.exe",
+          "size": 96902032,
+          "sha256": "8df72858efe6dbd5cc4ac17a279ee7133e6d6ba2f6f0e27725a030d85ab0fd73"
         }
       }
     }
