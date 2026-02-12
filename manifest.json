@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.41",
-      "releaseDate": "2026-02-11",
-      "releaseNotes": "Fix guest name flow: pass name via deep link.",
+      "version": "1.1.42",
+      "releaseDate": "2026-02-12",
+      "releaseNotes": "Fix daily challenge error handling and mode persistence.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.41/Freecell-Update.exe",
-          "size": 101648888,
-          "sha256": "c00b4d9c952eedfae21473cc1e553aaf14d7fb8a9221c7f7d8ce0fe337cf3608"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.42/Freecell-Update.exe",
+          "size": 101649160,
+          "sha256": "fb3148b7c72830295657d461897e3209c3257cb3f7b1fbae0c4f0c562d065c1b"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.19",
-      "releaseDate": "2026-02-11",
-      "releaseNotes": "Fix guest name flow: pass name via deep link.",
+      "version": "1.0.20",
+      "releaseDate": "2026-02-12",
+      "releaseNotes": "Fix daily challenge error handling and mode persistence.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.19/Minesweeper-Update.exe",
-          "size": 96903080,
-          "sha256": "030d0cd2235fda27d4c762bd6346fa43b521913b9cac207ed4eedff2d3bfd1e1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.20/Minesweeper-Update.exe",
+          "size": 96903120,
+          "sha256": "5db0f5edb725c439b679abcefa29caebe0fe4528adc03f8dde80ad5974284b87"
         }
       }
     }
