@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.39",
-      "releaseDate": "2026-02-09",
-      "releaseNotes": "Consolidate win flow into shared base classes.",
+      "version": "1.1.40",
+      "releaseDate": "2026-02-11",
+      "releaseNotes": "Allow guests to play challenges without signing in.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.39/Freecell-Update.exe",
-          "size": 101647840,
-          "sha256": "ac0227583f0e0e8b133489d081514dabbc158036694494a01b4e8895a706c163"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.40/Freecell-Update.exe",
+          "size": 101648248,
+          "sha256": "a077e0cda2e8dbab585e3af1f9de80a02cc29824eafa0230cd846c1dc1378606"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.17",
-      "releaseDate": "2026-02-09",
-      "releaseNotes": "Consolidate win flow, fix Top Players highlight.",
+      "version": "1.0.18",
+      "releaseDate": "2026-02-11",
+      "releaseNotes": "Allow guests to play challenges without signing in.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.17/Minesweeper-Update.exe",
-          "size": 96902032,
-          "sha256": "8df72858efe6dbd5cc4ac17a279ee7133e6d6ba2f6f0e27725a030d85ab0fd73"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.18/Minesweeper-Update.exe",
+          "size": 96902696,
+          "sha256": "e6d9cd1d7b315e002ac2a824c3da29315360ec07c1c973149bc4efece8d1ed45"
         }
       }
     }
