@@ -26,14 +26,14 @@
       }
     },
     "minesweeper": {
-      "version": "1.0.23",
+      "version": "1.0.24",
       "releaseDate": "2026-02-12",
-      "releaseNotes": "Fix daily challenge crash when switching to larger difficulty.",
+      "releaseNotes": "Fix hardcore starting position crash in daily challenge.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.23/Minesweeper-Update.exe",
-          "size": 96954576,
-          "sha256": "8d823c1e1eeb6065c2e92fb64ad5c2e11daef35127360ef823c3aa497a7620a2"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.24/Minesweeper-Update.exe",
+          "size": 96954560,
+          "sha256": "dc5279a462c3b4fb2e9680f7406aa6f98b1ccc14bdf1280dd7e5a0529e8d90a3"
         }
       }
     }
