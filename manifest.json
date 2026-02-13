@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.43",
+      "version": "1.1.44",
       "releaseDate": "2026-02-12",
-      "releaseNotes": "Align new game modal and daily challenge.",
+      "releaseNotes": "Fix challenge participant markers z-index.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.43/Freecell-Update.exe",
-          "size": 101649656,
-          "sha256": "16d3275fee179c523e95951e867249e1d712d47a9d6cfe23e76d366e54eff662"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.44/Freecell-Update.exe",
+          "size": 101649888,
+          "sha256": "12fbb034c9bb971ca4241e448d89693c4bfa92c148f9e2a231a597a73e98d5e7"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.21",
+      "version": "1.0.22",
       "releaseDate": "2026-02-12",
-      "releaseNotes": "Align new game modal and daily challenge with FreeCell.",
+      "releaseNotes": "Fix challenge participant markers z-index.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.21/Minesweeper-Update.exe",
-          "size": 96954464,
-          "sha256": "f95eee756678567ad6940200b99c2176440db1df030230a2d9570200b97adbe5"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.22/Minesweeper-Update.exe",
+          "size": 96954232,
+          "sha256": "00b3ee79b8da37f19ff24f4b772eb1166db76226edd88cd20d5b876aedb0559b"
         }
       }
     }
