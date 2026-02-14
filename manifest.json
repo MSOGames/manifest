@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.45",
+      "version": "1.1.46",
       "releaseDate": "2026-02-13",
-      "releaseNotes": "Consolidate trophy system, block zoom, scrollable settings.",
+      "releaseNotes": "Fix zoom reset timing.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.45/Freecell-Update.exe",
-          "size": 101653992,
-          "sha256": "d8de697d3bfb987c9a3508abe2de509ec3de25bf2b7213e865977d3be8cb09db"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.46/Freecell-Update.exe",
+          "size": 101654520,
+          "sha256": "f0e328270a768530d456968f43770de957e11ece80d6d1c1583f060b9a518c0a"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.27",
+      "version": "1.0.28",
       "releaseDate": "2026-02-13",
-      "releaseNotes": "Consolidate trophy system, block zoom, scrollable settings.",
+      "releaseNotes": "Fix zoom reset timing.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.27/Minesweeper-Update.exe",
-          "size": 96958392,
-          "sha256": "974b7b05fe0a29bc96eb2599c3162ea19145d5cd9b1c2e0e6f3434220e7dbd65"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.28/Minesweeper-Update.exe",
+          "size": 96958576,
+          "sha256": "eebbad644b92a577ead97d718eb5c74fccb9b3fcc801c4a568d6de90c058e142"
         }
       }
     }
