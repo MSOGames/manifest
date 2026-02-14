@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.44",
-      "releaseDate": "2026-02-12",
-      "releaseNotes": "Fix challenge participant markers z-index.",
+      "version": "1.1.45",
+      "releaseDate": "2026-02-13",
+      "releaseNotes": "Consolidate trophy system, block zoom, scrollable settings.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.44/Freecell-Update.exe",
-          "size": 101649888,
-          "sha256": "12fbb034c9bb971ca4241e448d89693c4bfa92c148f9e2a231a597a73e98d5e7"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.45/Freecell-Update.exe",
+          "size": 101653992,
+          "sha256": "d8de697d3bfb987c9a3508abe2de509ec3de25bf2b7213e865977d3be8cb09db"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.26",
+      "version": "1.0.27",
       "releaseDate": "2026-02-13",
-      "releaseNotes": "Fix stats using wrong difficulty in hardcore; force expert when hardcore enabled.",
+      "releaseNotes": "Consolidate trophy system, block zoom, scrollable settings.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.26/Minesweeper-Update.exe",
-          "size": 96954912,
-          "sha256": "cf3f7614bffcd309e83cab93ec554d4d087caaadc1d46b7cf40a99364a8e18dd"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.27/Minesweeper-Update.exe",
+          "size": 96958392,
+          "sha256": "974b7b05fe0a29bc96eb2599c3162ea19145d5cd9b1c2e0e6f3434220e7dbd65"
         }
       }
     }
