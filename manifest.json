@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.38",
+    "version": "1.0.39",
     "releaseDate": "2026-02-14",
-    "releaseNotes": "Add tiered notification suppression and display scaling warning.",
+    "releaseNotes": "Fix toast sender name.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.38/MSOHub-Setup.exe",
-        "size": 96296816,
-        "sha256": "7335f571bdaa93accfda77c2fb61934db0c7d32f2b2d1db8a8e0ae58271eb842"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.39/MSOHub-Setup.exe",
+        "size": 96302320,
+        "sha256": "6a3c5e6c461003e6e1593d20018307acb6af03207aef6b5ebfafd50a626a7f7c"
       }
     }
   },
