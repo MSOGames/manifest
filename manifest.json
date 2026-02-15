@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.40",
-    "releaseDate": "2026-02-14",
-    "releaseNotes": "Add device-based feedback responses for unauthenticated users.",
+    "version": "1.0.41",
+    "releaseDate": "2026-02-15",
+    "releaseNotes": "Unified Hub notification bell.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.40/MSOHub-Setup.exe",
-        "size": 96305056,
-        "sha256": "747c7b2f96dfcb730bdbbdb42536531b34244f7739c92b8b7caf039961467fcf"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.41/MSOHub-Setup.exe",
+        "size": 96306656,
+        "sha256": "3e781b663acd6438c96d40ef041bf149a9c0e09062726a8dadb200366a8bff2b"
       }
     }
   },
