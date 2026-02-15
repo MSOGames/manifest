@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.41",
+    "version": "1.0.42",
     "releaseDate": "2026-02-15",
-    "releaseNotes": "Unified Hub notification bell.",
+    "releaseNotes": "Hub polls for dethronements and challenges when no games connected.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.41/MSOHub-Setup.exe",
-        "size": 96306656,
-        "sha256": "3e781b663acd6438c96d40ef041bf149a9c0e09062726a8dadb200366a8bff2b"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.42/MSOHub-Setup.exe",
+        "size": 96307552,
+        "sha256": "0000d1e67bd650c26013904ce8c66957bba923b0494b06f4e50188cc4e31ec1f"
       }
     }
   },
