@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.51",
-      "releaseDate": "2026-02-14",
-      "releaseNotes": "Add badge definitions and trophy gallery improvements.",
+      "version": "1.1.52",
+      "releaseDate": "2026-02-15",
+      "releaseNotes": "Add startup tips for feature discovery.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.51/Freecell-Update.exe",
-          "size": 101661616,
-          "sha256": "3cbcb53c495195621ad126b7730301f0c8d7c489508ea4f0fcd82f897b60e4fa"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.52/Freecell-Update.exe",
+          "size": 101663072,
+          "sha256": "ab3b09e27b30cce202de7a7ad48efbddb62c541461a6c40ecccd1a1f9a905256"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.33",
-      "releaseDate": "2026-02-14",
-      "releaseNotes": "Add badge definitions and trophy gallery improvements.",
+      "version": "1.0.34",
+      "releaseDate": "2026-02-15",
+      "releaseNotes": "Add startup tips for feature discovery.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.33/Minesweeper-Update.exe",
-          "size": 96963456,
-          "sha256": "f2f6dd2cca2a7b0566160a7e3b8983908460fba3a6bc85280885a68127be359b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.34/Minesweeper-Update.exe",
+          "size": 96965256,
+          "sha256": "449c97466e375d8109eb0cedc4ee4f99525e5f22b6538b60b36aa473bd212eb6"
         }
       }
     }
