@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.56",
+      "version": "1.1.57",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Fix streak badge popover descriptions.",
+      "releaseNotes": "Factor rivalry UI into shared packages.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.56/Freecell-Update.exe",
-          "size": 101666608,
-          "sha256": "4f77dadd7e6333816c82b23a6696f4a1604b972c147d45c051b482985014c9c6"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.57/Freecell-Update.exe",
+          "size": 101667384,
+          "sha256": "060642c5e26f96cd602ec64cb130568e434a845d499c1c3bcd0ff5bf01e9bc41"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.38",
+      "version": "1.0.39",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Fix streak badge popover descriptions.",
+      "releaseNotes": "Factor rivalry UI into shared packages.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.38/Minesweeper-Update.exe",
-          "size": 96967584,
-          "sha256": "72fc8be791499210901ab6f2e7780b54c104aff0ad262d2ad462a93da210205d"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.39/Minesweeper-Update.exe",
+          "size": 96970480,
+          "sha256": "9a3b4ab732c8a7aedfffea54155034f85ccedb2cb7feaba4ae39eb5e673f2d8c"
         }
       }
     }
