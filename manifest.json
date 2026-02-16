@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.55",
+      "version": "1.1.56",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Add badge popovers and replay flag response modal.",
+      "releaseNotes": "Fix streak badge popover descriptions.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.55/Freecell-Update.exe",
-          "size": 101666464,
-          "sha256": "c2c300b76d4771b3e45f46330cb836164af93d7018f331cbb397f00a6c4a2bca"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.56/Freecell-Update.exe",
+          "size": 101666608,
+          "sha256": "4f77dadd7e6333816c82b23a6696f4a1604b972c147d45c051b482985014c9c6"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.37",
+      "version": "1.0.38",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Add badge popovers and replay flag response modal.",
+      "releaseNotes": "Fix streak badge popover descriptions.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.37/Minesweeper-Update.exe",
-          "size": 96967384,
-          "sha256": "83e4e9203b0b9939c82a87513c66803e6d3a966ac4334cfcc46c1349135221db"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.38/Minesweeper-Update.exe",
+          "size": 96967584,
+          "sha256": "72fc8be791499210901ab6f2e7780b54c104aff0ad262d2ad462a93da210205d"
         }
       }
     }
