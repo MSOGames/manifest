@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.59",
+      "version": "1.1.60",
       "releaseDate": "2026-02-17",
-      "releaseNotes": "Trophy tab restructuring, rivalry contrast fixes, profile popup improvements.",
+      "releaseNotes": "Fix notification click race condition.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.59/Freecell-Update.exe",
-          "size": 101672152,
-          "sha256": "51fe38c78195e940fbb342e4fcfe305c2483b5fe983e69b315bd21b6cde72f89"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.60/Freecell-Update.exe",
+          "size": 101666320,
+          "sha256": "6ba368776ab6d5a866c1b86cc271764b5168923074d79f9eb52cccfd3ffd1fa7"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.41",
+      "version": "1.0.42",
       "releaseDate": "2026-02-17",
-      "releaseNotes": "Trophy tab restructuring, rivalry contrast fixes, profile popup improvements.",
+      "releaseNotes": "Fix notification click race condition.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.41/Minesweeper-Update.exe",
-          "size": 96973672,
-          "sha256": "333ffe9ac36ea60d033c667d2a3c68109943c6a04ea508036d781797151ae726"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.42/Minesweeper-Update.exe",
+          "size": 96973648,
+          "sha256": "f306feb0b60749c0ac0cc915e0da42cefc5d124f7f2e30e1b685a694fafdb9ba"
         }
       }
     }
