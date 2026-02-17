@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.44",
-    "releaseDate": "2026-02-16",
-    "releaseNotes": "Fix mark-as-read: use POST not PUT for notifications endpoint.",
+    "version": "1.0.45",
+    "releaseDate": "2026-02-17",
+    "releaseNotes": "Launch game when clicking game notifications in Hub bell.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.44/MSOHub-Setup.exe",
-        "size": 96313080,
-        "sha256": "c1b0316771d2be04a6fd0b27b4fb703d64b6d13ce7f4ca87130d5035c1e150f8"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.45/MSOHub-Setup.exe",
+        "size": 96313712,
+        "sha256": "222750b59b2a2a603b86969b8b87beae19b68dbee3e6641da82c5472fbacb66d"
       }
     }
   },
