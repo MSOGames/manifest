@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.62",
+      "version": "1.1.63",
       "releaseDate": "2026-02-17",
-      "releaseNotes": "Fix notification markAsRead on system clicks.",
+      "releaseNotes": "Fix rivalry Recent list colors and loss row contrast.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.62/Freecell-Update.exe",
-          "size": 101673328,
-          "sha256": "d5a3eb112d0e88142bb989c04997b9a5c0196b409634f2321b79b038a8b4960e"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.63/Freecell-Update.exe",
+          "size": 101673568,
+          "sha256": "c4bc2b11c51ed960acf3cd3e335d57ff7dc7faab895ccfa6a5e84f151bf46602"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.44",
+      "version": "1.0.45",
       "releaseDate": "2026-02-17",
-      "releaseNotes": "Fix notification markAsRead on system clicks.",
+      "releaseNotes": "Fix rivalry Recent list colors and loss row contrast.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.44/Minesweeper-Update.exe",
-          "size": 96973800,
-          "sha256": "9efbcb251e04c33e92c0c5680d506bd0b8084a4a4ea95a52dbba9f1fc427da42"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.45/Minesweeper-Update.exe",
+          "size": 96973904,
+          "sha256": "0bc65899b12655ea68e47de3bc7a93ff2c472342714cd4f7356ee5890cb43411"
         }
       }
     }
