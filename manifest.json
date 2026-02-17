@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.43",
+    "version": "1.0.44",
     "releaseDate": "2026-02-16",
-    "releaseNotes": "Consolidate Hub notification systems into single main-process poller.",
+    "releaseNotes": "Fix mark-as-read: use POST not PUT for notifications endpoint.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.43/MSOHub-Setup.exe",
-        "size": 96312848,
-        "sha256": "67e6b1a993b81075bc0f7bf11c8be29b6f16b7af57fbfbd3812502e5db3fd270"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.44/MSOHub-Setup.exe",
+        "size": 96313080,
+        "sha256": "c1b0316771d2be04a6fd0b27b4fb703d64b6d13ce7f4ca87130d5035c1e150f8"
       }
     }
   },
