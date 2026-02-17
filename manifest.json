@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.57",
+      "version": "1.1.58",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Factor rivalry UI into shared packages.",
+      "releaseNotes": "Rivalry phase 2: h2h modals, nemesis card, rivalry badges.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.57/Freecell-Update.exe",
-          "size": 101667384,
-          "sha256": "060642c5e26f96cd602ec64cb130568e434a845d499c1c3bcd0ff5bf01e9bc41"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.58/Freecell-Update.exe",
+          "size": 101670304,
+          "sha256": "8df74d45b4d1635d56d996a48bbf54dcc2bc7de28019bf5bd393da69a708acf3"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.39",
+      "version": "1.0.40",
       "releaseDate": "2026-02-16",
-      "releaseNotes": "Factor rivalry UI into shared packages.",
+      "releaseNotes": "Rivalry phase 2: h2h modals, nemesis card, rivalry badges.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.39/Minesweeper-Update.exe",
-          "size": 96970480,
-          "sha256": "9a3b4ab732c8a7aedfffea54155034f85ccedb2cb7feaba4ae39eb5e673f2d8c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.40/Minesweeper-Update.exe",
+          "size": 96973264,
+          "sha256": "285955c509c69aa73032511bbce2a3686f90c1f798885033a512d31f15d39eb0"
         }
       }
     }
