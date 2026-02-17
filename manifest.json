@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.58",
-      "releaseDate": "2026-02-16",
-      "releaseNotes": "Rivalry phase 2: h2h modals, nemesis card, rivalry badges.",
+      "version": "1.1.59",
+      "releaseDate": "2026-02-17",
+      "releaseNotes": "Trophy tab restructuring, rivalry contrast fixes, profile popup improvements.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.58/Freecell-Update.exe",
-          "size": 101670304,
-          "sha256": "8df74d45b4d1635d56d996a48bbf54dcc2bc7de28019bf5bd393da69a708acf3"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.59/Freecell-Update.exe",
+          "size": 101672152,
+          "sha256": "51fe38c78195e940fbb342e4fcfe305c2483b5fe983e69b315bd21b6cde72f89"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.40",
-      "releaseDate": "2026-02-16",
-      "releaseNotes": "Rivalry phase 2: h2h modals, nemesis card, rivalry badges.",
+      "version": "1.0.41",
+      "releaseDate": "2026-02-17",
+      "releaseNotes": "Trophy tab restructuring, rivalry contrast fixes, profile popup improvements.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.40/Minesweeper-Update.exe",
-          "size": 96973264,
-          "sha256": "285955c509c69aa73032511bbce2a3686f90c1f798885033a512d31f15d39eb0"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.41/Minesweeper-Update.exe",
+          "size": 96973672,
+          "sha256": "333ffe9ac36ea60d033c667d2a3c68109943c6a04ea508036d781797151ae726"
         }
       }
     }
