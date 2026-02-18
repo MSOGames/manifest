@@ -14,14 +14,14 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.63",
-      "releaseDate": "2026-02-17",
-      "releaseNotes": "Fix rivalry Recent list colors and loss row contrast.",
+      "version": "1.1.64",
+      "releaseDate": "2026-02-18",
+      "releaseNotes": "Layout-independent replay drag, clean clip-path cursor.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.63/Freecell-Update.exe",
-          "size": 101673568,
-          "sha256": "c4bc2b11c51ed960acf3cd3e335d57ff7dc7faab895ccfa6a5e84f151bf46602"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.64/Freecell-Update.exe",
+          "size": 101673976,
+          "sha256": "9fff5077de38fb2c5fc1457dbdc5be0659183b72b4aca32487f53d2d91342dae"
         }
       }
     },
