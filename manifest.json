@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.47",
-    "releaseDate": "2026-02-17",
-    "releaseNotes": "Fix notification markAsRead on system clicks, download modal title sync.",
+    "version": "1.0.48",
+    "releaseDate": "2026-02-18",
+    "releaseNotes": "Fix Hub notifications: mark rivalry read on server, clear stale update-available.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.47/MSOHub-Setup.exe",
-        "size": 96314008,
-        "sha256": "3c5ad5a3da4fd6c3b2ee5e2e0da969198094b41a70490dbaea0eccb1ebbba99c"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.48/MSOHub-Setup.exe",
+        "size": 96314304,
+        "sha256": "cccffff555de86b921cd42a1d4d914ae7e3aee52ccc5a21ed396a5ccdd554094"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.64",
+      "version": "1.1.65",
       "releaseDate": "2026-02-18",
-      "releaseNotes": "Layout-independent replay drag, clean clip-path cursor.",
+      "releaseNotes": "Updated bundled Hub to v1.0.48 (notification fixes).",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.64/Freecell-Update.exe",
-          "size": 101673976,
-          "sha256": "9fff5077de38fb2c5fc1457dbdc5be0659183b72b4aca32487f53d2d91342dae"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.65/Freecell-Update.exe",
+          "size": 101674040,
+          "sha256": "7c75739f2632af840987b58a98d6b0f5add34c0fd089e354e83737594868b8f8"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.45",
-      "releaseDate": "2026-02-17",
-      "releaseNotes": "Fix rivalry Recent list colors and loss row contrast.",
+      "version": "1.0.46",
+      "releaseDate": "2026-02-18",
+      "releaseNotes": "Updated bundled Hub to v1.0.48 (notification fixes).",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.45/Minesweeper-Update.exe",
-          "size": 96973904,
-          "sha256": "0bc65899b12655ea68e47de3bc7a93ff2c472342714cd4f7356ee5890cb43411"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.46/Minesweeper-Update.exe",
+          "size": 96974312,
+          "sha256": "9ac2f35ffc1b10748e7796e8b0b6ad02512fe975b6827311cbb9aea332b67edd"
         }
       }
     }
