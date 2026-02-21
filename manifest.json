@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.67",
-      "releaseDate": "2026-02-20",
-      "releaseNotes": "Fix lobby round start and countdown timer.",
+      "version": "1.1.68",
+      "releaseDate": "2026-02-21",
+      "releaseNotes": "Fix lobby round start for group play.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.67/Freecell-Update.exe",
-          "size": 101685280,
-          "sha256": "289d1d46c059d1dc4caea38a6ebb4022da77646c4bdcbb783f5e23f0bdb41fdd"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.68/Freecell-Update.exe",
+          "size": 101686176,
+          "sha256": "2d00e7cb2f70c5fde165112fdf2df79b5243959229026b42e7a347843b1e24d6"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.48",
-      "releaseDate": "2026-02-20",
-      "releaseNotes": "Fix lobby round start and countdown timer.",
+      "version": "1.0.49",
+      "releaseDate": "2026-02-21",
+      "releaseNotes": "Fix lobby round start for group play.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.48/Minesweeper-Update.exe",
-          "size": 96982552,
-          "sha256": "cc4d5dcc5f4ffa1a3ff3706e6f269ec28e8be8bc62b557e92677df54b0044ced"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.49/Minesweeper-Update.exe",
+          "size": 96983272,
+          "sha256": "6639194d813697852cded87ea932391f38a15cf1e6e99b970b86b0cd0ed3f0f4"
         }
       }
     }
