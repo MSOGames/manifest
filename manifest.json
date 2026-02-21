@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.66",
+      "version": "1.1.67",
       "releaseDate": "2026-02-20",
-      "releaseNotes": "Group Play: Create or join lobbies to compete on the same seed with friends.",
+      "releaseNotes": "Fix lobby round start and countdown timer.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.66/Freecell-Update.exe",
-          "size": 101686080,
-          "sha256": "4985078312b8590ccabf4b0e66f0d5fa6d53b1731e490f5de791136b7c515864"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.67/Freecell-Update.exe",
+          "size": 101685280,
+          "sha256": "289d1d46c059d1dc4caea38a6ebb4022da77646c4bdcbb783f5e23f0bdb41fdd"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.47",
+      "version": "1.0.48",
       "releaseDate": "2026-02-20",
-      "releaseNotes": "Group Play: Create or join lobbies to compete on the same seed with friends.",
+      "releaseNotes": "Fix lobby round start and countdown timer.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.47/Minesweeper-Update.exe",
-          "size": 96982384,
-          "sha256": "e43728084c6db2abb10fca9b7a576b508a929332a4f73fb6476027907cb36dbb"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.48/Minesweeper-Update.exe",
+          "size": 96982552,
+          "sha256": "cc4d5dcc5f4ffa1a3ff3706e6f269ec28e8be8bc62b557e92677df54b0044ced"
         }
       }
     }
