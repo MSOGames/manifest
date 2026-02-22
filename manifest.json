@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.71",
+      "version": "1.1.72",
       "releaseDate": "2026-02-22",
-      "releaseNotes": "Fix lobby win dialog: auth, modal persistence, Group tab.",
+      "releaseNotes": "Fix lobby result data (auto-streak, moves), clean up diagnostic logging.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.71/Freecell-Update.exe",
-          "size": 101696584,
-          "sha256": "4bfb8e802415d35250f017a9fab25209d5602bbd2be2aa74e7d9c64e4120f393"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.72/Freecell-Update.exe",
+          "size": 101695928,
+          "sha256": "2797930183c4d596c89ee60deaf90ae8dd1c881b48fe81e6d9aff663ecd1e347"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.52",
+      "version": "1.0.53",
       "releaseDate": "2026-02-22",
-      "releaseNotes": "Fix lobby win dialog: auth, modal persistence, Group tab.",
+      "releaseNotes": "Clean up diagnostic logging.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.52/Minesweeper-Update.exe",
-          "size": 96988688,
-          "sha256": "7ef1e413dc531e94315904e22126e08e7ba86d513423d8ac4ee11b679babbaea"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.53/Minesweeper-Update.exe",
+          "size": 96988448,
+          "sha256": "34b1c4932cebcd23158c142018d01e9fa325cc50b5061b3fa6b46d3f88be882c"
         }
       }
     }
