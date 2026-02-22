@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.69",
+      "version": "1.1.70",
       "releaseDate": "2026-02-21",
-      "releaseNotes": "Server-side lobby round stats.",
+      "releaseNotes": "Fix lobby round stats: server-side 3BV/s and IOE.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.69/Freecell-Update.exe",
-          "size": 101695624,
-          "sha256": "cbd2b0c68794e0f1070809037c49480301efe1290f871bca288d1a8638a8f8a2"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.70/Freecell-Update.exe",
+          "size": 101695952,
+          "sha256": "f907f265acb38dfc7187f7e73a3f6482812f204bcbc53fa3d7507f99bd4b5b91"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.50",
+      "version": "1.0.51",
       "releaseDate": "2026-02-21",
-      "releaseNotes": "Server-side lobby round stats.",
+      "releaseNotes": "Fix lobby round stats: server-side 3BV/s and IOE.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.50/Minesweeper-Update.exe",
-          "size": 96987440,
-          "sha256": "40124e491913faa3361dbed38cd045ced85bed8f32983ca48c643839eb228f37"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.51/Minesweeper-Update.exe",
+          "size": 96988760,
+          "sha256": "70e6303e0237b2314b4bb440b321471349225e9360b708940f774b0e8e52db3a"
         }
       }
     }
