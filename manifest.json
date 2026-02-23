@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.73",
+      "version": "1.1.74",
       "releaseDate": "2026-02-22",
-      "releaseNotes": "Fix lobby auto-streak always showing 0.",
+      "releaseNotes": "Lobby host migration on disconnect.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.73/Freecell-Update.exe",
-          "size": 101695720,
-          "sha256": "14e11a049803bc9cf216d722265ef958c1ac861236a9383c4ea0524edf2139cf"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.74/Freecell-Update.exe",
+          "size": 101696656,
+          "sha256": "fbcd660b7d62c8a7be7bdcadd12dea8701f052c2ed3c48461804ed3e5e31ec27"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.53",
+      "version": "1.0.54",
       "releaseDate": "2026-02-22",
-      "releaseNotes": "Clean up diagnostic logging.",
+      "releaseNotes": "Lobby host migration on disconnect.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.53/Minesweeper-Update.exe",
-          "size": 96988448,
-          "sha256": "34b1c4932cebcd23158c142018d01e9fa325cc50b5061b3fa6b46d3f88be882c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.54/Minesweeper-Update.exe",
+          "size": 96988504,
+          "sha256": "96605802a757d7f5ca8e35b7f1b652f6110480833c075c1f21fa7665c04ad9e4"
         }
       }
     }
