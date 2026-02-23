@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.74",
-      "releaseDate": "2026-02-22",
-      "releaseNotes": "Lobby host migration on disconnect.",
+      "version": "1.1.75",
+      "releaseDate": "2026-02-23",
+      "releaseNotes": "Lobby disconnect handling, host migration, Hub restart recovery.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.74/Freecell-Update.exe",
-          "size": 101696656,
-          "sha256": "fbcd660b7d62c8a7be7bdcadd12dea8701f052c2ed3c48461804ed3e5e31ec27"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.75/Freecell-Update.exe",
+          "size": 101696368,
+          "sha256": "76be5493755952dc7780feedac25f6d1d6f03bd2d1281993dcca8b9e8a6fc902"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.54",
-      "releaseDate": "2026-02-22",
-      "releaseNotes": "Lobby host migration on disconnect.",
+      "version": "1.0.55",
+      "releaseDate": "2026-02-23",
+      "releaseNotes": "Lobby disconnect handling, host migration, Hub restart recovery.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.54/Minesweeper-Update.exe",
-          "size": 96988504,
-          "sha256": "96605802a757d7f5ca8e35b7f1b652f6110480833c075c1f21fa7665c04ad9e4"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.55/Minesweeper-Update.exe",
+          "size": 96987464,
+          "sha256": "a7ddc1407b0d123fc9b9fdb3cacdf98f88799001959175db91e4ebe8ae86df5c"
         }
       }
     }
