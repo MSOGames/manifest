@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.76",
-      "releaseDate": "2026-02-23",
-      "releaseNotes": "Lobby dual-mode stats, member markers, bucket detection fix.",
+      "version": "1.1.77",
+      "releaseDate": "2026-02-24",
+      "releaseNotes": "Manual host promotion, kick detection UI fix.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.76/Freecell-Update.exe",
-          "size": 101699200,
-          "sha256": "bb2608dacccbd5dc1db4ec621f717e3b5b0c31a49a917081a11153b3e7c3f5ee"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.77/Freecell-Update.exe",
+          "size": 101700376,
+          "sha256": "bc410eb9ec1131e7420e1ada46cd9613e762a60260920f630efdc17f5cdc5e21"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.56",
-      "releaseDate": "2026-02-23",
-      "releaseNotes": "Lobby dual-mode stats, member markers, bucket detection fix.",
+      "version": "1.0.57",
+      "releaseDate": "2026-02-24",
+      "releaseNotes": "Manual host promotion, kick detection UI fix.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.56/Minesweeper-Update.exe",
-          "size": 96991488,
-          "sha256": "048dada46fbdfb27ab9650dfcff2b8d7906fdd5a9179e332aa6d5f2f5338dc3a"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.57/Minesweeper-Update.exe",
+          "size": 96992160,
+          "sha256": "9b0157ae7259247654afbd4efbf2ab86b3066b538b96aca82e78a7abc018a683"
         }
       }
     }
