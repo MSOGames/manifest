@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.77",
+      "version": "1.1.78",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Manual host promotion, kick detection UI fix.",
+      "releaseNotes": "Copy Link button in lobby panel for easy sharing.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.77/Freecell-Update.exe",
-          "size": 101700376,
-          "sha256": "bc410eb9ec1131e7420e1ada46cd9613e762a60260920f630efdc17f5cdc5e21"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.78/Freecell-Update.exe",
+          "size": 101700160,
+          "sha256": "d73ae51571a8f338a8b23276e6d3a8eeb4b0e98bd041f34849b663d128d02082"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.57",
+      "version": "1.0.58",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Manual host promotion, kick detection UI fix.",
+      "releaseNotes": "Copy Link button in lobby panel for easy sharing.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.57/Minesweeper-Update.exe",
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.58/Minesweeper-Update.exe",
           "size": 96992160,
-          "sha256": "9b0157ae7259247654afbd4efbf2ab86b3066b538b96aca82e78a7abc018a683"
+          "sha256": "9bbecff4ca277f82d24aa0120f69effc6f47c94bd95672566c6c35b9a8a27c3a"
         }
       }
     }
