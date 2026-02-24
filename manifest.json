@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.51",
+    "version": "1.0.52",
     "releaseDate": "2026-02-24",
-    "releaseNotes": "Prevent updates from killing running games, host promotion, game-closed detection, download progress.",
+    "releaseNotes": "Lobby result retry on network errors.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.51/MSOHub-Setup.exe",
-        "size": 96329272,
-        "sha256": "49c23f370c22b1f83ef7e86c0d89458948e8dec1d8e15c6248f8d7661321190f"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.52/MSOHub-Setup.exe",
+        "size": 96329736,
+        "sha256": "30cc83636d7860c89182761df95c740fb8051a0f83d60120a619e92e2bf72877"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.78",
+      "version": "1.1.79",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Copy Link button in lobby panel for easy sharing.",
+      "releaseNotes": "Countdown overlay, auto-open panel on join.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.78/Freecell-Update.exe",
-          "size": 101700160,
-          "sha256": "d73ae51571a8f338a8b23276e6d3a8eeb4b0e98bd041f34849b663d128d02082"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.79/Freecell-Update.exe",
+          "size": 101700512,
+          "sha256": "518d9571da52f80918c48068e0cf95ff261fce4a5b67f535d94689e488c3af09"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.58",
+      "version": "1.0.59",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Copy Link button in lobby panel for easy sharing.",
+      "releaseNotes": "Countdown overlay, auto-open panel on join.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.58/Minesweeper-Update.exe",
-          "size": 96992160,
-          "sha256": "9bbecff4ca277f82d24aa0120f69effc6f47c94bd95672566c6c35b9a8a27c3a"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.59/Minesweeper-Update.exe",
+          "size": 96992704,
+          "sha256": "af80ca2b7280f631d9689b2f3cff4deee3c70321b38af7854448475778f51980"
         }
       }
     }
