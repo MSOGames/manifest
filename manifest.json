@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.79",
+      "version": "1.1.80",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Countdown overlay, auto-open panel on join.",
+      "releaseNotes": "Fix lobby panel not auto-opening on deep link join.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.79/Freecell-Update.exe",
-          "size": 101700512,
-          "sha256": "518d9571da52f80918c48068e0cf95ff261fce4a5b67f535d94689e488c3af09"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.80/Freecell-Update.exe",
+          "size": 101700520,
+          "sha256": "886b43afa97aad154d96ba6965216308a8350cdc40b67d23777c93455fa70c62"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.59",
+      "version": "1.0.60",
       "releaseDate": "2026-02-24",
-      "releaseNotes": "Countdown overlay, auto-open panel on join.",
+      "releaseNotes": "Fix lobby panel not auto-opening on deep link join.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.59/Minesweeper-Update.exe",
-          "size": 96992704,
-          "sha256": "af80ca2b7280f631d9689b2f3cff4deee3c70321b38af7854448475778f51980"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.60/Minesweeper-Update.exe",
+          "size": 96992688,
+          "sha256": "743f7726375a890f22401149e5e8b58b78ddc8f6631b512994f9688e1478f793"
         }
       }
     }
