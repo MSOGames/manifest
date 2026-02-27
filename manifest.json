@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.84",
-      "releaseDate": "2026-02-26",
-      "releaseNotes": "Full restore fidelity: lobby win, replay guard, result ID, performance messages, hint button, timer fix.",
+      "version": "1.1.85",
+      "releaseDate": "2026-02-27",
+      "releaseNotes": "Lobby Everyone mode: real population top players with current-round highlighting.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.84/Freecell-Update.exe",
-          "size": 101706504,
-          "sha256": "51fef42003c3f9f935369e6553db5f210072a08d4d9abd435a820d8df53c0d0f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.85/Freecell-Update.exe",
+          "size": 101707776,
+          "sha256": "ea16519d619ae2d69d284067db6cf4fc4f3079d3d992be1c0dbd4e9d9457a927"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.64",
-      "releaseDate": "2026-02-26",
-      "releaseNotes": "Full restore fidelity: won-game restore with win dialog, lobby mode, replay guard, performance messages.",
+      "version": "1.0.65",
+      "releaseDate": "2026-02-27",
+      "releaseNotes": "Lobby Everyone mode: real population top players with current-round highlighting.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.64/Minesweeper-Update.exe",
-          "size": 96996008,
-          "sha256": "b3c64c363f16ea4788af13c89c54bb242116bc5487ba46f77df2f1942a0638e9"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.65/Minesweeper-Update.exe",
+          "size": 96997392,
+          "sha256": "8d64d48dac9c72cb80dfb9e393f1a987de8bd7a71e5794935c982b8742237ffd"
         }
       }
     }
