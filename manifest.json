@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.88",
-      "releaseDate": "2026-03-01",
-      "releaseNotes": "Settings: rivalry notification toggle, settings telemetry.",
+      "version": "1.1.89",
+      "releaseDate": "2026-03-02",
+      "releaseNotes": "Lobby hardcore fix, panel render optimization.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.88/Freecell-Update.exe",
-          "size": 101710824,
-          "sha256": "b70948382d4a978ef89f6acd7efbedd27fe55ca3cf923d568b1f72c231ddf414"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.89/Freecell-Update.exe",
+          "size": 101713064,
+          "sha256": "89deb487e1cd3d2da570ee5e637037336ff9cc5e54d01e62d4b0b77f0b60a47c"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.68",
-      "releaseDate": "2026-03-01",
-      "releaseNotes": "New settings modal: sound toggle, rivalry notification toggle, settings telemetry.",
+      "version": "1.0.69",
+      "releaseDate": "2026-03-02",
+      "releaseNotes": "Left-click chord, lobby hardcore fix, panel render optimization.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.68/Minesweeper-Update.exe",
-          "size": 97003960,
-          "sha256": "18e809d51716465b76fbb633c9d9d03bb60490ee7a8129bf422149027a41c7dc"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.69/Minesweeper-Update.exe",
+          "size": 97005192,
+          "sha256": "9c9092b203307f3cd3bff51e5e7b9803cbff2692051e01695a538eb16b35f5d0"
         }
       }
     }
