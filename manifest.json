@@ -26,14 +26,14 @@
       }
     },
     "minesweeper": {
-      "version": "1.0.69",
+      "version": "1.0.70",
       "releaseDate": "2026-03-02",
-      "releaseNotes": "Left-click chord, lobby hardcore fix, panel render optimization.",
+      "releaseNotes": "Over-flag warning, chord with >= flags, left-click chord.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.69/Minesweeper-Update.exe",
-          "size": 97005192,
-          "sha256": "9c9092b203307f3cd3bff51e5e7b9803cbff2692051e01695a538eb16b35f5d0"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.70/Minesweeper-Update.exe",
+          "size": 97005544,
+          "sha256": "f323071c6498405ccd5543c9e139cf08e4fb6a2e6626c3491933085cb92604ff"
         }
       }
     }
