@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.89",
-      "releaseDate": "2026-03-02",
-      "releaseNotes": "Lobby hardcore fix, panel render optimization.",
+      "version": "1.1.90",
+      "releaseDate": "2026-03-04",
+      "releaseNotes": "Fix rivalry system: client difficulty override for rivalry seeds.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.89/Freecell-Update.exe",
-          "size": 101713064,
-          "sha256": "89deb487e1cd3d2da570ee5e637037336ff9cc5e54d01e62d4b0b77f0b60a47c"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.90/Freecell-Update.exe",
+          "size": 101711592,
+          "sha256": "02f5c09801c9ff73faf24f4eec23e2ab4859f8aefca09019a65ea09c2c749392"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.70",
-      "releaseDate": "2026-03-02",
-      "releaseNotes": "Over-flag warning, chord with >= flags, left-click chord.",
+      "version": "1.0.71",
+      "releaseDate": "2026-03-04",
+      "releaseNotes": "Fix rivalry system: client difficulty override, difficulty button sync.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.70/Minesweeper-Update.exe",
-          "size": 97005544,
-          "sha256": "f323071c6498405ccd5543c9e139cf08e4fb6a2e6626c3491933085cb92604ff"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.71/Minesweeper-Update.exe",
+          "size": 97005008,
+          "sha256": "5d4ee0abe442d77cb2530c76a9553920be6ff300b9d849ce081e45bef04ccfc8"
         }
       }
     }
