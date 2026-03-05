@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.90",
+      "version": "1.1.91",
       "releaseDate": "2026-03-04",
-      "releaseNotes": "Fix rivalry system: client difficulty override for rivalry seeds.",
+      "releaseNotes": "Shared code refactor, CSS variable cleanup, remove duplicate styles.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.90/Freecell-Update.exe",
-          "size": 101711592,
-          "sha256": "02f5c09801c9ff73faf24f4eec23e2ab4859f8aefca09019a65ea09c2c749392"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.91/Freecell-Update.exe",
+          "size": 101720440,
+          "sha256": "a7a3ef56f2b96f85a491eb9faf0371a0dfd674fe589ac719b68663b13c9e0b30"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.71",
+      "version": "1.0.72",
       "releaseDate": "2026-03-04",
-      "releaseNotes": "Fix rivalry system: client difficulty override, difficulty button sync.",
+      "releaseNotes": "Shared code refactor, CSS variable cleanup.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.71/Minesweeper-Update.exe",
-          "size": 97005008,
-          "sha256": "5d4ee0abe442d77cb2530c76a9553920be6ff300b9d849ce081e45bef04ccfc8"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.72/Minesweeper-Update.exe",
+          "size": 97011080,
+          "sha256": "d4b18a31705847abded39e4786b676bc0b84e9ef234b51a7a3999acd230e6e58"
         }
       }
     }
