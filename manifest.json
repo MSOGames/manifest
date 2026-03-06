@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.91",
-      "releaseDate": "2026-03-04",
-      "releaseNotes": "Shared code refactor, CSS variable cleanup, remove duplicate styles.",
+      "version": "1.1.92",
+      "releaseDate": "2026-03-05",
+      "releaseNotes": "Survey system: multi-game support, always-on Other option.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.91/Freecell-Update.exe",
-          "size": 101720440,
-          "sha256": "a7a3ef56f2b96f85a491eb9faf0371a0dfd674fe589ac719b68663b13c9e0b30"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.92/Freecell-Update.exe",
+          "size": 101720912,
+          "sha256": "36a2664c61a1652083cb81f3bc6f578a65349db3dd2f5fb960525a42cd028509"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.72",
-      "releaseDate": "2026-03-04",
-      "releaseNotes": "Shared code refactor, CSS variable cleanup.",
+      "version": "1.0.73",
+      "releaseDate": "2026-03-05",
+      "releaseNotes": "Survey system: multi-game support, always-on Other option.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.72/Minesweeper-Update.exe",
-          "size": 97011080,
-          "sha256": "d4b18a31705847abded39e4786b676bc0b84e9ef234b51a7a3999acd230e6e58"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.73/Minesweeper-Update.exe",
+          "size": 97011096,
+          "sha256": "7958fd4e6d61cb82e10102eed12ad57446388efdc877c773c97a1b5ac7afd50c"
         }
       }
     }
