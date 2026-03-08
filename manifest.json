@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.92",
-      "releaseDate": "2026-03-05",
-      "releaseNotes": "Survey system: multi-game support, always-on Other option.",
+      "version": "1.1.93",
+      "releaseDate": "2026-03-08",
+      "releaseNotes": "Fix stuck win dialog on submission failure, fix nudge popover blocking clicks.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.92/Freecell-Update.exe",
-          "size": 101720912,
-          "sha256": "36a2664c61a1652083cb81f3bc6f578a65349db3dd2f5fb960525a42cd028509"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.93/Freecell-Update.exe",
+          "size": 101731552,
+          "sha256": "fe9c51efc0f6e7dca2cdf1e054c7ad24ae2c75f4ccedc248dd57f051094ed186"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.73",
-      "releaseDate": "2026-03-05",
-      "releaseNotes": "Survey system: multi-game support, always-on Other option.",
+      "version": "1.0.74",
+      "releaseDate": "2026-03-08",
+      "releaseNotes": "Fix stuck win dialog on submission failure, fix nudge popover blocking clicks.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.73/Minesweeper-Update.exe",
-          "size": 97011096,
-          "sha256": "7958fd4e6d61cb82e10102eed12ad57446388efdc877c773c97a1b5ac7afd50c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.74/Minesweeper-Update.exe",
+          "size": 97020656,
+          "sha256": "8a9c16c564f45d0e34d9488c6fa809ebc35e407197879e48eb124ea6a06b331d"
         }
       }
     }
