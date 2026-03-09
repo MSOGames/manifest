@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.94",
+      "version": "1.1.95",
       "releaseDate": "2026-03-09",
-      "releaseNotes": "Replay: release events, state snapshot/restore, unified cursor, win flash.",
+      "releaseNotes": "Fix toolbar tooltips, rivalry difficulty matching.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.94/Freecell-Update.exe",
-          "size": 101730736,
-          "sha256": "54dbbae3571a27f8e199c5727acd9d9515f274a5f79065f0316a31a0a7e36690"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.95/Freecell-Update.exe",
+          "size": 101732344,
+          "sha256": "0c8a24da906ed589e185cc26c79ca42869ef2218d1263244bea2f4ab10900555"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.75",
+      "version": "1.0.76",
       "releaseDate": "2026-03-09",
-      "releaseNotes": "Replay: release events, state snapshot/restore, unified cursor, win flash.",
+      "releaseNotes": "Fix toolbar tooltips, rivalry difficulty matching.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.75/Minesweeper-Update.exe",
-          "size": 97021504,
-          "sha256": "754d7cd70bf86aa1fdfd4c701aff9bf54766a79b182a3e5adfcd26b0b638b0c9"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.76/Minesweeper-Update.exe",
+          "size": 97016464,
+          "sha256": "51fab877e8dd90d069cc6965744171ef61e87f6b34cdc4903bb8a349daca7336"
         }
       }
     }
