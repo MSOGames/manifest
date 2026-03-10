@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.97",
-      "releaseDate": "2026-03-09",
-      "releaseNotes": "Auto-flag mines on win, win dialog dismiss grace period.",
+      "version": "1.1.98",
+      "releaseDate": "2026-03-10",
+      "releaseNotes": "MSO Arena branding.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.97/Freecell-Update.exe",
-          "size": 101732392,
-          "sha256": "414ea0253a149fb7fe5f16e5dcd283dd8b990c34c19861c03d9179ea276ab1ec"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.98/Freecell-Update.exe",
+          "size": 101732648,
+          "sha256": "87c479046cd744160f11b840893ba6b16cedf0b101099024b53f42371f9654bf"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.78",
-      "releaseDate": "2026-03-09",
-      "releaseNotes": "Auto-flag mines on win, win dialog dismiss grace period.",
+      "version": "1.0.79",
+      "releaseDate": "2026-03-10",
+      "releaseNotes": "MSO Arena branding.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.78/Minesweeper-Update.exe",
-          "size": 97022888,
-          "sha256": "dbaad84e1b6ad1c61af35253226e6971ae9e514076046ddd0da02391eeb03699"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.79/Minesweeper-Update.exe",
+          "size": 97022832,
+          "sha256": "5dc19cad993603070c570d7c57b8e4e05b082275da4e50cbe4939cf84ebee258"
         }
       }
     }
