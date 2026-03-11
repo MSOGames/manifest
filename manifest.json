@@ -14,26 +14,26 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.98",
+      "version": "1.1.99",
       "releaseDate": "2026-03-10",
-      "releaseNotes": "MSO Arena branding.",
+      "releaseNotes": "Consolidate win detection, fix slow animation speed.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.98/Freecell-Update.exe",
-          "size": 101732648,
-          "sha256": "87c479046cd744160f11b840893ba6b16cedf0b101099024b53f42371f9654bf"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.99/Freecell-Update.exe",
+          "size": 101733584,
+          "sha256": "45ba7e4e71d99f5c173a471f608c9f5724a3f297caf59b2add777edd7a231fc7"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.79",
+      "version": "1.0.80",
       "releaseDate": "2026-03-10",
-      "releaseNotes": "MSO Arena branding.",
+      "releaseNotes": "Version bump for parallel release.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.79/Minesweeper-Update.exe",
-          "size": 97022832,
-          "sha256": "5dc19cad993603070c570d7c57b8e4e05b082275da4e50cbe4939cf84ebee258"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.80/Minesweeper-Update.exe",
+          "size": 97023408,
+          "sha256": "2f1c0bc5e8bfad1e3359a3bb3304bcc0a4bba1e94301624cca1f21452f9127e0"
         }
       }
     }
