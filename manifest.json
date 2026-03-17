@@ -1,39 +1,59 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.60",
+    "version": "1.0.61",
     "releaseDate": "2026-03-17",
-    "releaseNotes": "Refresh user profile from server on startup.",
+    "releaseNotes": "Add macOS game update support.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.60/MSOHub-Setup.exe",
-        "size": 96977384,
-        "sha256": "6670ee48293b3311d0134a62e43d2ffaa9b4d61f53fc2034f12b97a2e8d71fca"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.61/MSOHub-Setup.exe",
+        "size": 96978856,
+        "sha256": "af1cd0e817f504a3f8bd34e0c2618364002ac45205165a63a36ec290db42b038"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.105",
+      "version": "1.1.106",
       "releaseDate": "2026-03-17",
-      "releaseNotes": "Foundation highlight helpers, corner badge overflow.",
+      "releaseNotes": "macOS update support via Hub.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.105/Freecell-Update.exe",
-          "size": 101736640,
-          "sha256": "99938651a54fcb171c4dbd11a0dea1339421c487588c3160bf9c30edb85f570d"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.106/Freecell-Update.exe",
+          "size": 101736680,
+          "sha256": "448d19121c3befcd8088ff5c96c1e6d7015bd9bedd3af48f91368a2e0f8d50e5"
+        },
+        "darwin-arm64": {
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.106/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 219214777,
+          "sha256": "8b70296d9f63eb2458f2306bb1073c567cc94e74923467ffaf822ce73b8e8296"
+        },
+        "darwin-x64": {
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.106/MSOFreeCell-Update-mac-x64.zip",
+          "size": 234756587,
+          "sha256": "41b522dc2c138697e75e2f568bd37218958793ed00ab9a257593b1532f3bd578"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.86",
+      "version": "1.0.87",
       "releaseDate": "2026-03-17",
-      "releaseNotes": "Minefield Master badge always shows, corner badge overflow.",
+      "releaseNotes": "macOS update support via Hub.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.86/Minesweeper-Update.exe",
-          "size": 97034880,
-          "sha256": "bce53488178f55c7efac94af9309e082bdfbcc4a3c8a57bf0851d83d4e5fdb24"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.87/Minesweeper-Update.exe",
+          "size": 97034864,
+          "sha256": "9959842636de860bf94c1c86ce63f62d399d6d59bd069f4129890119899ae439"
+        },
+        "darwin-arm64": {
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.87/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 213376295,
+          "sha256": "85f452aa74f965fcaaaf220b44c82ab87594e1fb3b6d4f78214c6a92c7d573f7"
+        },
+        "darwin-x64": {
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.87/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 228918116,
+          "sha256": "7657d6c128aa3161ef192260d5355a1f6f1094c39958b64663413e17d421dc7c"
         }
       }
     }
