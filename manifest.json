@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.66",
+    "version": "1.0.67",
     "releaseDate": "2026-03-18",
-    "releaseNotes": "Test quitAndInstall on macOS.",
+    "releaseNotes": "Fix quitAndInstall on macOS + fresh install UI.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.66/MSOHub-Setup.exe",
-        "size": 96978776,
-        "sha256": "f5410e84bdcca615f179be564acf7af0f908ba73188f56856d025b864c49c515"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.67/MSOHub-Setup.exe",
+        "size": 96978848,
+        "sha256": "bd30d0c27aaca4f7c7f46be76cdd3d88925aba46bbc60fe157718f895e6b954d"
       }
     }
   },
