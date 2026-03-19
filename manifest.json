@@ -14,46 +14,46 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.107",
-      "releaseDate": "2026-03-17",
-      "releaseNotes": "Harden macOS update flow.",
+      "version": "1.1.108",
+      "releaseDate": "2026-03-18",
+      "releaseNotes": "Restore mode after daily challenge/challenge link.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.107/Freecell-Update.exe",
-          "size": 101736536,
-          "sha256": "2a5568fea7213c3a894e2e0a311f22f100b1e0c917b2eb29229a4f0d9e3b543f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.108/Freecell-Update.exe",
+          "size": 101739944,
+          "sha256": "1153f3312ed38476bd9612d2ab23ce7cf78d5e13e7270c09efd4aeb274aabef9"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.107/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 112254745,
-          "sha256": "fa04737a516e530ec0a292e7b237257983912438f82d0c3aaf76477a4c9bd632"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.108/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 112255578,
+          "sha256": "e518f64d9090877b407d0dfbf2d30a1589030b4dc7752d6f7551f7b2d3d40a3a"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.107/MSOFreeCell-Update-mac-x64.zip",
-          "size": 120025663,
-          "sha256": "a375232144fc7a9df289f678f3ec66e16a2e6b06a29945d7809bd743440bffc4"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.108/MSOFreeCell-Update-mac-x64.zip",
+          "size": 120026497,
+          "sha256": "3dcc844fdf520a1700a4ebe3334c562de599a17b4ce307b540322612ffa1e4d2"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.88",
-      "releaseDate": "2026-03-17",
-      "releaseNotes": "Harden macOS update flow.",
+      "version": "1.0.89",
+      "releaseDate": "2026-03-18",
+      "releaseNotes": "Restore mode after daily challenge/challenge link.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.88/Minesweeper-Update.exe",
-          "size": 97034824,
-          "sha256": "dd922e24e947cf791c232866a85898f68519c2326c0156406c073e3757e13aed"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.89/Minesweeper-Update.exe",
+          "size": 97037512,
+          "sha256": "aab4ff10915833ae2747d989a052f08dbb7a6e3181bf78d96b50401625a02784"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.88/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 106412506,
-          "sha256": "46f36e40489819896b61ac88cd281d31467b8e8ce4bab4cfd48e079b1e514fa8"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.89/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 106413342,
+          "sha256": "2e62ecb612076e843533a660974b14b9ab9260350e5aaa96be0368c8198a9da2"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.88/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 114183449,
-          "sha256": "aa56713a5ac18c05541611df189f8daae3a1d4cd9f62a1dfc8a32d3ee6341ca1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.89/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 114184242,
+          "sha256": "65becf1d2f80359b47294f1e1d4c3c0d501fc47409706c59c27abaae868b7b1e"
         }
       }
     }
