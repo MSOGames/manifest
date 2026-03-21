@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.110",
+      "version": "1.1.111",
       "releaseDate": "2026-03-21",
-      "releaseNotes": "Win rate tooltips on Top Players.",
+      "releaseNotes": "Fix hardcore replay recording.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.110/Freecell-Update.exe",
-          "size": 101743744,
-          "sha256": "9f5162ebb63298caad1af195a51189628d04dc2dbf4e0327f47b37b884aa5c0a"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/Freecell-Update.exe",
+          "size": 101743952,
+          "sha256": "f634e5aa8abcdc441bf53e74ced6c3911e6c1142c2f85d165867ad1aa18a2b27"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.110/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 112258211,
-          "sha256": "a188eca982a29790fe52fc09755a93c5588d04e02761b2b4992b8bfe68cbf1fb"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 112258206,
+          "sha256": "28161ddd3a73a0f99f3367b7b9324ebb5b45041f49a04156556404df882d6277"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.110/MSOFreeCell-Update-mac-x64.zip",
-          "size": 120029126,
-          "sha256": "c33af169e015686bde0b5188104959e00ed818f283e33be3f2d82e1a3153805c"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/MSOFreeCell-Update-mac-x64.zip",
+          "size": 120029128,
+          "sha256": "74b36c9712fde1215be75c81bbec1a4408c35b2a90f5b55aa2a87d796c7d6212"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.110/Freecell-Update-Linux.AppImage",
-          "size": 124694957,
-          "sha256": "e5f1121ab0a520e4ec84c9cee8fe328c50d2854c43ecb8758c8e201bdb701e59"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/Freecell-Update-Linux.AppImage",
+          "size": 124694977,
+          "sha256": "e6ddc82ba91cd0cb43767c704f744a74ea4ec3d7fb32c9600b3c5fe19a09e4bc"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.91",
+      "version": "1.0.92",
       "releaseDate": "2026-03-21",
-      "releaseNotes": "Loss modal: click-to-watch replays, win rate tooltips, Watch Best in header.",
+      "releaseNotes": "Fix hardcore replay recording.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.91/Minesweeper-Update.exe",
-          "size": 97040832,
-          "sha256": "274239e9b147c76abffd1da5e88b1a630f11fa42056187299a17414a97861f0b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/Minesweeper-Update.exe",
+          "size": 97040976,
+          "sha256": "428a219623b9bb1b2823f30ba369f077c3d5cd21f9ae336abe219521f25a5806"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.91/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 106418122,
-          "sha256": "e95b296257fa88e9da8b731ede358f95558dde4ed76f414b3ba5f0e45ca5b8ae"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 106418272,
+          "sha256": "d72acdb0b378522c5457326a4ef131964d8de91759ef230dc7ec8bbff674aebd"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.91/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 114189063,
-          "sha256": "4efaeee1ba066fecb3a18348f2126ae986b2e818dd5bae4673c1fb1bda263667"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 114189214,
+          "sha256": "f17b5ae3bbd5b85c39b17a7e22169f7f60953469835a2355eb168c0bab525eaa"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.91/Minesweeper-Update-Linux.AppImage",
-          "size": 118220199,
-          "sha256": "3151b658836a096feb67b6d2b21392c6d87b2e46f3be8572ac65b3b3527e3b0a"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/Minesweeper-Update-Linux.AppImage",
+          "size": 118220270,
+          "sha256": "b04527059378388f8af89bf570a1f47a724d41bcd82eef7089d08bcc8e7f16f1"
         }
       }
     }
