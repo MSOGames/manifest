@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.69",
+    "version": "1.0.70",
     "releaseDate": "2026-03-20",
-    "releaseNotes": "Linux uninstall from Settings, graceful game shutdown on quit.",
+    "releaseNotes": "Actionable bell notifications.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.69/MSOHub-Setup.exe",
-        "size": 96979808,
-        "sha256": "d01a650d6d3df79de1fbb543dcb8d56aef71bce97e8961f22c4a798f82c4ceeb"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.70/MSOHub-Setup.exe",
+        "size": 96983560,
+        "sha256": "0c0d59b30e0d1bd2b4066758a6a80bac2b86fcb9ceed1101ae561597295edace"
       }
     }
   },
