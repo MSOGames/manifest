@@ -1,69 +1,69 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.73",
+    "version": "1.0.74",
     "releaseDate": "2026-03-22",
-    "releaseNotes": "Fix macOS game update failure. Fix update banner showing OK instead of Restart Now.",
+    "releaseNotes": "Fix notification click not showing rivalry modal in game.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.73/MSOHub-Setup.exe",
-        "size": 96985960,
-        "sha256": "f3696239e84c9d31ed027eacfa87041603a98df4a616ecd1bd7973ad62165147"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.74/MSOHub-Setup.exe",
+        "size": 96989264,
+        "sha256": "11b960934409ebe9c087461a07e6827b8045a2b705401afbf0b8a4e62d25ef7f"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.113",
+      "version": "1.1.114",
       "releaseDate": "2026-03-22",
-      "releaseNotes": "Win rate bar charts, skill radar charts, improved lobby chart marker visibility.",
+      "releaseNotes": "Fix notification click not showing rivalry modal.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.113/Freecell-Update.exe",
-          "size": 101757872,
-          "sha256": "4ecd91b75f3289a0ded63d9d17d9e8a77ec853a6e3230525c13d5f26ca20d4bd"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.114/Freecell-Update.exe",
+          "size": 101758688,
+          "sha256": "a74fce73a993036450983fd257537d0062a8b2ed9e218bf75abf87ef4e3e332a"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.113/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 112263216,
-          "sha256": "e82287f28e4e232736c39f99b8a524f7086ea49b0a1811e5d20a700dee9922de"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.114/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 112263558,
+          "sha256": "4729acf32b52b0892dc858ed375a1d899dc2c27b9eb87164b2469caae2d765e3"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.113/MSOFreeCell-Update-mac-x64.zip",
-          "size": 120034111,
-          "sha256": "de36da3cdfaf6e5569e9564eb983e85a7397a0229707e115248ebea59bb59f37"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.114/MSOFreeCell-Update-mac-x64.zip",
+          "size": 120034456,
+          "sha256": "d1e4969dc1c9d0ed6bf615c205f2e331165898cf23fdb6c355322af41fe31367"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.113/Freecell-Update-Linux.AppImage",
-          "size": 124711546,
-          "sha256": "08fe73510e34719035dfd21b5e74ca100e856d189a8b28a5a149fbee359f09fb"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.114/Freecell-Update-Linux.AppImage",
+          "size": 124711505,
+          "sha256": "6b1720aded8acbf190f950790da537b7a6f7d0ad74cec730074d0f7c616d1436"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.94",
+      "version": "1.0.95",
       "releaseDate": "2026-03-22",
-      "releaseNotes": "Win rate bar charts, skill radar charts, improved lobby chart marker visibility.",
+      "releaseNotes": "Fix notification click not showing rivalry modal.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.94/Minesweeper-Update.exe",
-          "size": 97045736,
-          "sha256": "07bfaadb18ecd794e1aec329f7694bfc1dea242cdf067644308bb236667d4864"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.95/Minesweeper-Update.exe",
+          "size": 97046016,
+          "sha256": "11a5bcd8418b5eb6f30301ef20923fea6135a9aeef5d5d63f9f05433e0864769"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.94/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 106423835,
-          "sha256": "a92c959e4bf741c95875703972f043e6b1d9a5ed31e9e6fcb1ae651445be092a"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.95/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 106424134,
+          "sha256": "b0ac8b9c76efa198e87b5f89cf0c3ec3a820fbe47566c2311b0efacd833a61e5"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.94/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 114194743,
-          "sha256": "d0afe80c04b4293741cbdebe786669ce3f16919336a3e56c1c30c98b4db70ab6"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.95/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 114195056,
+          "sha256": "1f507abc83ce5d05a7ba748ef3f3d87294b8c6b2d4dc4fd2775b77c149b6c661"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.94/Minesweeper-Update-Linux.AppImage",
-          "size": 118228198,
-          "sha256": "4b8a8d34c83dbab07edc2564537e7f03b283cd57b9d6f92ec9e75da9c3c94dcb"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.95/Minesweeper-Update-Linux.AppImage",
+          "size": 118228276,
+          "sha256": "66018e6e5c86c13e81b895fcee61275f4d2e5e1652e67a3609360e5e7ccd4a3f"
         }
       }
     }
