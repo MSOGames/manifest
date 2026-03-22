@@ -1,69 +1,69 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.70",
-    "releaseDate": "2026-03-20",
-    "releaseNotes": "Actionable bell notifications.",
+    "version": "1.0.71",
+    "releaseDate": "2026-03-21",
+    "releaseNotes": "Fix macOS/Linux game update failure when stale .bak exists.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.70/MSOHub-Setup.exe",
-        "size": 96983560,
-        "sha256": "0c0d59b30e0d1bd2b4066758a6a80bac2b86fcb9ceed1101ae561597295edace"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.71/MSOHub-Setup.exe",
+        "size": 96985984,
+        "sha256": "4c77fd9c09ff5b53e1728e725cba5d3c3b2661433b5e84f0b62e338a69751de0"
       }
     }
   },
   "games": {
     "freecell": {
-      "version": "1.1.111",
+      "version": "1.1.112",
       "releaseDate": "2026-03-21",
-      "releaseNotes": "Fix hardcore replay recording.",
+      "releaseNotes": "Fix error message flash during retryable submission failures.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/Freecell-Update.exe",
-          "size": 101743952,
-          "sha256": "f634e5aa8abcdc441bf53e74ced6c3911e6c1142c2f85d165867ad1aa18a2b27"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.112/Freecell-Update.exe",
+          "size": 101744560,
+          "sha256": "04d578299c238d9f14f94b0ba9a535124deff64e0a40fe805bf9754ceae49f23"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 112258206,
-          "sha256": "28161ddd3a73a0f99f3367b7b9324ebb5b45041f49a04156556404df882d6277"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.112/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 112258333,
+          "sha256": "4ae540ad152e9f97eac8e137171d37a57abac25482263e85e2a78f98c9b47701"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/MSOFreeCell-Update-mac-x64.zip",
-          "size": 120029128,
-          "sha256": "74b36c9712fde1215be75c81bbec1a4408c35b2a90f5b55aa2a87d796c7d6212"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.112/MSOFreeCell-Update-mac-x64.zip",
+          "size": 120029214,
+          "sha256": "34c24a6464ecd6e920612b761771fa191d1a90ae7c0e161433a384a0756359dc"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.111/Freecell-Update-Linux.AppImage",
-          "size": 124694977,
-          "sha256": "e6ddc82ba91cd0cb43767c704f744a74ea4ec3d7fb32c9600b3c5fe19a09e4bc"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.112/Freecell-Update-Linux.AppImage",
+          "size": 124694823,
+          "sha256": "dcaf8384c91f157c010fce0dde20bbeeda8bb8bf67c5f1adfae788c49900aa3e"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.92",
+      "version": "1.0.93",
       "releaseDate": "2026-03-21",
-      "releaseNotes": "Fix hardcore replay recording.",
+      "releaseNotes": "Fix error message flash during retryable submission failures.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/Minesweeper-Update.exe",
-          "size": 97040976,
-          "sha256": "428a219623b9bb1b2823f30ba369f077c3d5cd21f9ae336abe219521f25a5806"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.93/Minesweeper-Update.exe",
+          "size": 97041192,
+          "sha256": "e834f88c89cfe4e4294b4cfec4e0a93cb75314b7c7dba38d9f9c1fc2bb23b012"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 106418272,
-          "sha256": "d72acdb0b378522c5457326a4ef131964d8de91759ef230dc7ec8bbff674aebd"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.93/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 106418651,
+          "sha256": "05886da1295f03f9e59cc77a78d6641222582bb578e6677f89e3e54b76e249b3"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 114189214,
-          "sha256": "f17b5ae3bbd5b85c39b17a7e22169f7f60953469835a2355eb168c0bab525eaa"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.93/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 114189538,
+          "sha256": "3588c95a0abd0743e4c741e45de809b9703c5dd8f57db26de0bcbb4c2c6ffaa8"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.92/Minesweeper-Update-Linux.AppImage",
-          "size": 118220270,
-          "sha256": "b04527059378388f8af89bf570a1f47a724d41bcd82eef7089d08bcc8e7f16f1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.93/Minesweeper-Update-Linux.AppImage",
+          "size": 118220139,
+          "sha256": "760421db6c19f543b3355c626aa9a4a9894d15b65b56a78cdc8e191450eb6240"
         }
       }
     }
