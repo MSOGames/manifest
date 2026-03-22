@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "hub": {
-    "version": "1.0.71",
-    "releaseDate": "2026-03-21",
-    "releaseNotes": "Fix macOS/Linux game update failure when stale .bak exists.",
+    "version": "1.0.73",
+    "releaseDate": "2026-03-22",
+    "releaseNotes": "Fix macOS game update failure. Fix update banner showing OK instead of Restart Now.",
     "platforms": {
       "win32-x64": {
-        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.71/MSOHub-Setup.exe",
-        "size": 96985984,
-        "sha256": "4c77fd9c09ff5b53e1728e725cba5d3c3b2661433b5e84f0b62e338a69751de0"
+        "url": "https://github.com/MSOGames/Hub/releases/download/v1.0.73/MSOHub-Setup.exe",
+        "size": 96985960,
+        "sha256": "f3696239e84c9d31ed027eacfa87041603a98df4a616ecd1bd7973ad62165147"
       }
     }
   },
