@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.125",
-      "releaseDate": "2026-04-02",
-      "releaseNotes": "Direct server auth, unified settings, auth nudge improvements.",
+      "version": "1.1.126",
+      "releaseDate": "2026-04-03",
+      "releaseNotes": "Hub removed, standalone games, direct auth, PointerEvents, hardware telemetry.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.125/Freecell-Update.exe",
-          "size": 101938552,
-          "sha256": "625fc2285e85243f1978fc87b37515112c421ca827ce50db73c5b4ad05ebea0d"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.126/Freecell-Update.exe",
+          "size": 102240944,
+          "sha256": "b99c926eeeb4f62c3bf22ae57366e242bb68762e947ace78c70d12c23435adb4"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.125/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 112467349,
-          "sha256": "d1ec8fd94f473cae528a43e8649e67d18c92078af1cb12f52aa01591759babb5"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.126/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 112455654,
+          "sha256": "8cf8ce76f2c89e139e5fb996e507588f232f6d35e6c80e31539a3aad789a9724"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.125/MSOFreeCell-Update-mac-x64.zip",
-          "size": 120238268,
-          "sha256": "77d2075f48129817d14c5a32b49834055153d586b25401b0f5950af605a62a78"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.126/MSOFreeCell-Update-mac-x64.zip",
+          "size": 120226611,
+          "sha256": "c0b73a4099b4fde9046d92f83641ec27bf77a1e96d91c5c048834c2664edd6bc"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.125/Freecell-Update-Linux.AppImage",
-          "size": 124925017,
-          "sha256": "2df1ed405f99c3009a67d0226f128eb2f11463acc90e4eab992e0317c512d890"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.126/Freecell-Update-Linux.AppImage",
+          "size": 125261203,
+          "sha256": "483e700a4fc2b6d2a769ffdc4ca84f53fd8b62d1292dcadbaf1b92084dbd9c5f"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.106",
-      "releaseDate": "2026-04-02",
-      "releaseNotes": "Direct server auth, unified settings, auth nudge improvements.",
+      "version": "1.0.107",
+      "releaseDate": "2026-04-03",
+      "releaseNotes": "Hub removed, standalone games, direct auth, PointerEvents, hardware telemetry.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.106/Minesweeper-Update.exe",
-          "size": 97077848,
-          "sha256": "ab6273a7afa358366d39ce93521b507dc687397aa9458d54767097536ec83384"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.107/Minesweeper-Update.exe",
+          "size": 97067008,
+          "sha256": "710d4ae418383d7aaee24377d939d1b38c7f9869c0f5465cf45dcec9ba812233"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.106/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 106462192,
-          "sha256": "ed005516d43abb9e13878a906e7f830d8b93e9d3374d61983c9514ba3f301b04"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.107/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 106448965,
+          "sha256": "0c6f35db46d12d29aa2be6ca9457f6bd369acde6d1ad73e608d02684d938511b"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.106/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 114233084,
-          "sha256": "fb8ba9fb44103dc69527243745d9d81bed34df5af31027d61a9308ddb87e8d50"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.107/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 114219871,
+          "sha256": "5d6397e92a7dfd9bf43099d19f08901acbdb47c91a4a7fbfc53e51a1ed2bf7b1"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.106/Minesweeper-Update-Linux.AppImage",
-          "size": 118269215,
-          "sha256": "e3cb7f345a323f97bbcaf4882e6e3b435a9ddddac2a9bb7c0514d54e071a5f28"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.107/Minesweeper-Update-Linux.AppImage",
+          "size": 118253017,
+          "sha256": "2d1acb23920c0c315699f324665a1032d50a074388464403a4a4aa052ed74e24"
         }
       }
     }
