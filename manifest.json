@@ -14,29 +14,29 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.128",
-      "releaseDate": "2026-04-06",
-      "releaseNotes": "Hint UX, CSS fixes, diagnostic logging, 10k log buffer",
+      "version": "1.1.129",
+      "releaseDate": "2026-04-07",
+      "releaseNotes": "Mobile (Android) layout polish: bigger cards, edge-to-edge play area, FC/Fn 2x4 with free cells closer to tableau, full display name in toolbar.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.128/Freecell-Update.exe",
-          "size": 102866080,
-          "sha256": "285bb00924110813260e2d00d6ae08e3e073b31c0449d35fc273049af9519136"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/Freecell-Update.exe",
+          "size": 102868920,
+          "sha256": "d561305d3cb58851b15e21944a49d8e3fb226811674d061ab4f3ae32be184ad3"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.128/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 113826429,
-          "sha256": "828ff24b2476f52ca455e2ace93e5eb91c09e2a39a659d50710526f1bdedf452"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 113829612,
+          "sha256": "7daf8478dcd1fab6eecaaeb7bdfd2d8e2be452aae6ecc1953f8fcb7fb6133d40"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.128/MSOFreeCell-Update-mac-x64.zip",
-          "size": 121597363,
-          "sha256": "0d39e38b6bab70975026bf73ad7f0a29a12d543344e780be83f43251d84add9b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/MSOFreeCell-Update-mac-x64.zip",
+          "size": 121600561,
+          "sha256": "e7e57aa9bd5e121727d6d647babdf37b47f5aeaaf111361c4324d300e2880f53"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.128/Freecell-Update-Linux.AppImage",
-          "size": 127572626,
-          "sha256": "f54cc855158ca511fccc5b8c4b1459bcffdbf478f98f7007a8efcc1098669505"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/Freecell-Update-Linux.AppImage",
+          "size": 127576679,
+          "sha256": "2795e26dbbab2eafcaa36f6b89af9727789b6e5fe5a3e56c28f75d310962947a"
         }
       }
     },
