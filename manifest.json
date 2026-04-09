@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.129",
-      "releaseDate": "2026-04-07",
-      "releaseNotes": "Mobile (Android) layout polish: bigger cards, edge-to-edge play area, FC/Fn 2x4 with free cells closer to tableau, full display name in toolbar.",
+      "version": "1.1.131",
+      "releaseDate": "2026-04-08",
+      "releaseNotes": "Modal standardization milestone. Every modal in the app now uses a single uniform Modal base class with consistent dismiss behavior across all platforms: ESC, backdrop click, vertical swipe, and Android back button all close any modal. Tabbed modals (trophy, settings, win dialog) get horizontal swipe between tabs and Left/Right arrow-key navigation. The win dialog gets a new × close button and minimizes to a pill that persists until you start a new game. Added a Danger Zone in Settings → Account that lets you delete your account and all associated data with password confirmation. New /privacy page at msogames.com/privacy. Closes feedback #350.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/Freecell-Update.exe",
-          "size": 102868920,
-          "sha256": "d561305d3cb58851b15e21944a49d8e3fb226811674d061ab4f3ae32be184ad3"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.131/Freecell-Update.exe",
+          "size": 102876064,
+          "sha256": "a8d09fb60b8236337d42a2e6443791c788fc0eb134c4119c35e44c37a23050ac"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 113829612,
-          "sha256": "7daf8478dcd1fab6eecaaeb7bdfd2d8e2be452aae6ecc1953f8fcb7fb6133d40"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.131/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 113857810,
+          "sha256": "c0fc44a5c3b9b3c2fbce60e078ddeab91a0f38de5eb11fd98222375eab7f9c2d"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/MSOFreeCell-Update-mac-x64.zip",
-          "size": 121600561,
-          "sha256": "e7e57aa9bd5e121727d6d647babdf37b47f5aeaaf111361c4324d300e2880f53"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.131/MSOFreeCell-Update-mac-x64.zip",
+          "size": 121628728,
+          "sha256": "ee7cac64538af0159fdc48b6c5fa78b9fb399354747e5259a7544d4ee4ca957f"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.129/Freecell-Update-Linux.AppImage",
-          "size": 127576679,
-          "sha256": "2795e26dbbab2eafcaa36f6b89af9727789b6e5fe5a3e56c28f75d310962947a"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.131/Freecell-Update-Linux.AppImage",
+          "size": 127712579,
+          "sha256": "398d13ddae4799e54f16e22c6652d550ad80bae0b2daa00751b01edebaa95fd3"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.109",
-      "releaseDate": "2026-04-06",
-      "releaseNotes": "CSS fixes, diagnostic logging",
+      "version": "1.0.111",
+      "releaseDate": "2026-04-08",
+      "releaseNotes": "Modal standardization milestone. Every modal in the app now uses a single uniform Modal base class with consistent dismiss behavior: ESC, backdrop click, vertical swipe, and Android back button all close any modal. Tabbed modals (trophy, settings, win dialog) get horizontal swipe between tabs and Left/Right arrow-key navigation. The win dialog gets a new × close button and minimizes to a pill that persists until you start a new game. Added a Danger Zone in Settings → Account that lets you delete your account and all associated data with password confirmation. New /privacy page at msogames.com/privacy.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.109/Minesweeper-Update.exe",
-          "size": 97734520,
-          "sha256": "1a4e3ff51e257bdf1856a60a20a19008b87f151e3215e30f35600dcdc52a9910"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.111/Minesweeper-Update.exe",
+          "size": 97755336,
+          "sha256": "a3a08cdb1e2e9cb4e381b364e793a485fa6ac93210a6d804f2f986e8413286e5"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.109/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107493711,
-          "sha256": "65f28a349426e3e59165fecff96b9c798daf6b86ac529cb1acb01e7e370d69e1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.111/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 107520542,
+          "sha256": "ad62805e0cd71413fabb88060d635b8809ce8936e979c7c781482321bd2b3295"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.109/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115264586,
-          "sha256": "fa8d05471ccafb00dd4b794145ec9dd1cf1ba6e9fc6409c4f2ec0468dbe99931"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.111/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115291490,
+          "sha256": "29680479499782178a399151b554ab94cead5ea73e9db364de8872616e1327ea"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.109/Minesweeper-Update-Linux.AppImage",
-          "size": 120586074,
-          "sha256": "d7de21676e519e8363fe4fb94e0b2c8555e962f63dcaeaf4e80fdfbe4677a195"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.111/Minesweeper-Update-Linux.AppImage",
+          "size": 120692984,
+          "sha256": "68c55439641c4d7c487770796c64b6ae9c3d0ca23de162e7a92a3c37f1b8534a"
         }
       }
     }
