@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.1.132",
-      "releaseDate": "2026-04-09",
-      "releaseNotes": "Auto-updater fix release. The per-game auto-update path is now functional end-to-end for the first time - every previous update installer shipped with a broken app-update.yml that pointed at the source repo instead of the release repo. This release fixes the build config so all future update installers carry the correct config. Also adds a Restart Now button to the update notification: when an update is downloaded, the bell notification shows two options - Restart Now to apply immediately, or Later to keep playing and have the update install silently when you next quit the game. Diagnostic logging for the auto-updater now lands in game-state.log so future failures are visible.",
+      "version": "1.2.1",
+      "releaseDate": "2026-04-10",
+      "releaseNotes": "Emergency hotfix — fixes desktop launch crash introduced in v1.1.131. Un-bricks every desktop install stuck on v1.1.131, v1.1.132, or v1.2.0. Fixed: missing @mso-games/shared-ui workspace dependency + CJS/ESM interop bug in auto-updater init.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.132/Freecell-Update.exe",
-          "size": 102875528,
-          "sha256": "737cdbc3650b38033412d283b0e696ee66a6bd4360c8f2d5e109b84061e5769c"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.1/Freecell-Update.exe",
+          "size": 102882152,
+          "sha256": "bf6f4e082d6ac524f272eaf350b4167fef950829a3aff992c7a6fff83ac64f1f"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.132/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 113857987,
-          "sha256": "89803a216daeb7817ad4e323915a400fcd5ff2968949094bcfa302cc9c9bfa05"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.1/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 113909796,
+          "sha256": "cfb16d0441071d436675876e117ddbcbb7e4929d4d67c70258c49b2497c18b65"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.132/MSOFreeCell-Update-mac-x64.zip",
-          "size": 121628905,
-          "sha256": "2a0a4353a32cfcd97f4e57dbe3696bfcff90fc5daff44e8de7608c0233017201"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.1/MSOFreeCell-Update-mac-x64.zip",
+          "size": 121680743,
+          "sha256": "30b08dfcc691fe6b8aa94e146d122760ed5aff854d79b0eb2cc6728ea8bd1720"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.1.132/Freecell-Update-Linux.AppImage",
-          "size": 127712381,
-          "sha256": "35882bc40f363752b97dc8cae9441e1f4e71b4ccbd7193d7ce182aaeede13917"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.1/Freecell-Update-Linux.AppImage",
+          "size": 132164565,
+          "sha256": "be2945c45ddfca08fa0366a0ac2f8fe6913e5243ca0dbfd97f28d338ee41ae76"
         }
       }
     },
     "minesweeper": {
-      "version": "1.0.112",
-      "releaseDate": "2026-04-09",
-      "releaseNotes": "Auto-updater fix release. The per-game auto-update path is now functional end-to-end for the first time. Adds the missing update notification modal that Minesweeper was lacking, with a new Restart Now / Later UX. Bell notification on update available; clicking the bell shows the modal with two options. Restart Now applies the update immediately; Later keeps playing and installs silently on next quit. Diagnostic logging for the auto-updater is now visible in game-state.log.",
+      "version": "1.1.1",
+      "releaseDate": "2026-04-10",
+      "releaseNotes": "Emergency hotfix — fixes desktop launch crash introduced in v1.0.111. Un-bricks every desktop install stuck on v1.0.111, v1.0.112, or v1.1.0. Fixed: missing @mso-games/shared-ui workspace dependency + CJS/ESM interop bug in auto-updater init.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.112/Minesweeper-Update.exe",
-          "size": 97756528,
-          "sha256": "d3782987b2bf599597372ffb707ee1bddcae511d41fd881869e9cb0c334f8826"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.1/Minesweeper-Update.exe",
+          "size": 97801568,
+          "sha256": "d1bd547d22f61a6fa63f553a3195664c0a6da477dc2963f7268048f148eb25b1"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.112/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107521867,
-          "sha256": "a5efb7113062977ca08775d64b02aed59ac605d388167db5c4596493c703302f"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.1/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 107571677,
+          "sha256": "24fc188eff583f70dc52f5366cab5e96487a299cd3959288d937cf5848f0e8e9"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.112/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115292779,
-          "sha256": "e5513c11b107b14c3cf3cc86bd160f9665479b2255e4f5021d012a3f4c0ce90a"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.1/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115342577,
+          "sha256": "3f05ec9fc0a512fc7eebb849c0ec0921f76e9b7bf7146914913ee2158c60070e"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.0.112/Minesweeper-Update-Linux.AppImage",
-          "size": 120692945,
-          "sha256": "38f3a118b7990e4eb34ee0bf44b0cbb1f475029fc9243f12c04914234a046352"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.1/Minesweeper-Update-Linux.AppImage",
+          "size": 125158101,
+          "sha256": "b9a69aef2a148d97d7fd46285331014546c686ea75271113201d488ff8ebbebe"
         }
       }
     }
