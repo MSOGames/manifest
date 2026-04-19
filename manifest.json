@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.2.9",
+      "version": "1.2.10",
       "releaseDate": "2026-04-19",
-      "releaseNotes": "Modal polish \u2014 sticky header/footer, DOMPurify sanitization, unified slot API. Desktop double-tooltip fix (feedback #462). No victory animation on restored wins.",
+      "releaseNotes": "Anti-cheat heartbeats keep firing in unfocused windows (no more rejected wins when you tab away). Modal corners rounded again. Daily-challenge 'View Leaderboard' opens the full modal directly.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.9/Freecell-Update.exe",
-          "size": 104237248,
-          "sha256": "941976463afbe446a9f27dbcee5e31735631aa509889d9970a24d3162c85689b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.10/Freecell-Update.exe",
+          "size": 104237208,
+          "sha256": "e0e61fa2df9331108da7da6323b5da0fcc26097f2533851962386cf1c1c367db"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.9/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 116896049,
-          "sha256": "1792146defb3203d4ff8a2ebb658b6c56ac87a50be8b7a6f6a83008b99a6dae4"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.10/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 116896892,
+          "sha256": "97c7c7f40b7cf073a29ba0845a515307da3dba7cc94004f60c5078c2adafccda"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.9/MSOFreeCell-Update-mac-x64.zip",
-          "size": 124667004,
-          "sha256": "bb2596cf11e0a3f469ece410f4a27fc3322d6847e7665d918c8789ec2a2158ee"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.10/MSOFreeCell-Update-mac-x64.zip",
+          "size": 124667789,
+          "sha256": "6fb6ee055559d5f1b8d2f21ee3365644d60b4091f406f79923cc02602b38cf9a"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.9/Freecell-Update-Linux.AppImage",
-          "size": 134567921,
-          "sha256": "c763e4cac2cc4438ecf63cc4e4ec6fbfe621f51c94c933ec0a87a05f6b8791b4"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.10/Freecell-Update-Linux.AppImage",
+          "size": 134567885,
+          "sha256": "6c98f8bb11d9422dfcfaf3379318e96eab56453c1ce95f6eba50f577f359bfb2"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.7",
+      "version": "1.1.8",
       "releaseDate": "2026-04-19",
-      "releaseNotes": "Modal polish \u2014 sticky header/footer, DOMPurify sanitization, unified slot API. Desktop double-tooltip fix (feedback #462). No victory animation on restored wins.",
+      "releaseNotes": "Anti-cheat heartbeats keep firing in unfocused windows (no more rejected wins when you tab away). Modal corners rounded again. Daily-challenge 'View Leaderboard' opens the full modal directly.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.7/Minesweeper-Update.exe",
-          "size": 97906736,
-          "sha256": "6e019947f40a2c6519e99e21b9bd83152e79394bfebaca5e2902fd740c611ce1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.8/Minesweeper-Update.exe",
+          "size": 97907192,
+          "sha256": "e0aab60f4cc417187f86cb50b1c638c6455ddeabb4e0169af7040f743b1bb498"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.7/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107789620,
-          "sha256": "48294bc5ca2b0e757420c53b82ab9c8ad1ce903d431b944c4d75f73f30e6033d"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.8/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 107790103,
+          "sha256": "15e579fb67d4aab13fa508a6100832a12d0064cd817874c696b3cbb22bcea205"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.7/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115560562,
-          "sha256": "bf3d8e8cd13c2150ae2e8c11e8664a15aa0735f119db90d02a986c56bb2724c3"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.8/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115561016,
+          "sha256": "cbf75e01c2ff611972e04071641f0705ced3132e19ee74d2497a8c4da10114ad"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.7/Minesweeper-Update-Linux.AppImage",
-          "size": 125383582,
-          "sha256": "820cff2a72630e6cbce8e50189ed3578a937a55711edb1bbae19eef3c07f4433"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.8/Minesweeper-Update-Linux.AppImage",
+          "size": 125383598,
+          "sha256": "23e36f66f866ce8d971d4a01453b1983ba34bbfea90afbbe0716aa0cfc2db5ee"
         }
       }
     }
