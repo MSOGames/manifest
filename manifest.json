@@ -14,36 +14,36 @@
   },
   "games": {
     "freecell": {
-      "version": "1.2.11",
-      "releaseDate": "2026-04-19",
-      "releaseNotes": "Survey modal question text is visible again (regression fix \u2014 white-on-white bug introduced by earlier Modal best-practices sweep).",
+      "version": "1.3.5",
+      "releaseDate": "2026-05-05",
+      "releaseNotes": "Replay layout fidelity (cursor positioning, card aspect, chrome hide); cosmetic fixes for win modal, trophy modal, hardcore modal.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.11/Freecell-Update.exe",
-          "size": 104237168,
-          "sha256": "7a3263ee05ded46f724b7f2c38507f5cd6e0a218b487b116d5b9c9281c7c965b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.5/Freecell-Update.exe",
+          "size": 142057864,
+          "sha256": "8f9343c922ac90821bfe3574ad0c3d3e63ce6dadb1267c37e361c02b96baf6bb"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.11/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 116897033,
-          "sha256": "c44dfa806e7fc8d99631a7b1aba753ac5a977f89d91c7dd48d8dad4b58610b92"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.5/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 154842698,
+          "sha256": "06aa894e55bcc0271e57e16e2fdf583c48a24b57bb00ccbb2a5fded9d47b0ece"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.11/MSOFreeCell-Update-mac-x64.zip",
-          "size": 124667943,
-          "sha256": "3d779b0db9dbbbd803d4b4c451dfcb31c39182ecc02aac25c21df63940992168"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.5/MSOFreeCell-Update-mac-x64.zip",
+          "size": 162613640,
+          "sha256": "66fcc461c07771544a2277530190e7a4128bdcfa79828ffc5deed501702d8d06"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.2.11/Freecell-Update-Linux.AppImage",
-          "size": 134567987,
-          "sha256": "c5265b36fcf9a27c69de0c6c7fa57be5349024c9d29213befaaaf5e6d0cb4ed2"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.5/Freecell-Update-Linux.AppImage",
+          "size": 174413692,
+          "sha256": "1df72ece98d829c10975fe675b272f90094b7d1cb8f5f56d38f0235a4fc8df21"
         }
       }
     },
     "minesweeper": {
       "version": "1.1.9",
       "releaseDate": "2026-04-19",
-      "releaseNotes": "Survey modal question text is visible again (regression fix \u2014 white-on-white bug introduced by earlier Modal best-practices sweep).",
+      "releaseNotes": "Survey modal question text is visible again (regression fix — white-on-white bug introduced by earlier Modal best-practices sweep).",
       "platforms": {
         "win32-x64": {
           "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.9/Minesweeper-Update.exe",
