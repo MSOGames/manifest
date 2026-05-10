@@ -14,29 +14,29 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.9",
+      "version": "1.3.10",
       "releaseDate": "2026-05-10",
-      "releaseNotes": "Wrong-move sound toggle, Top Players dedupe fix, stats diagnostics.",
+      "releaseNotes": "Daily Challenge tab now shows streak banner + today's Time distribution + summary stats instead of an empty grey box.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.9/Freecell-Update.exe",
-          "size": 142076224,
-          "sha256": "15cd6c60ea915fe4e5b704afb20e317d66b914e111cf12c51f4db3e0fb6ee8bf"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.10/Freecell-Update.exe",
+          "size": 142077216,
+          "sha256": "2f0360f7febbb6adb8c9f4ff79e7fcc040d342358db8980355467abc127aab36"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.9/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 154854040,
-          "sha256": "fe3aea591f1a15729a7eaeea968808f9b36445156aaa83db62ae842f2f777ec6"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.10/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 154857224,
+          "sha256": "1acaa855e4586e14e6cb66d48f0165362a5669da59b59cf66210696bc7bd139e"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.9/MSOFreeCell-Update-mac-x64.zip",
-          "size": 162624969,
-          "sha256": "2d992d3eb0608aecef8b3c9421e8091af95346ccfa137622757ae1f468d90507"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.10/MSOFreeCell-Update-mac-x64.zip",
+          "size": 162628152,
+          "sha256": "b37cae539be9ccb07ba5678eb48101310fe0e4b4270cb074ca12411b26e4cba8"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.9/Freecell-Update-Linux.AppImage",
-          "size": 174421624,
-          "sha256": "ef70ed498b275160b85673b5bb9aa6fd28ef2f9e34a2313a6069418a20f58125"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.10/Freecell-Update-Linux.AppImage",
+          "size": 174433616,
+          "sha256": "3b69dfdd00b2ae07d69b9f3c7ef9772a330ffb3a14409fb6a2cd9d403a83ed7e"
         }
       }
     },
