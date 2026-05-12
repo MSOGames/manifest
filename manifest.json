@@ -14,29 +14,29 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.11",
+      "version": "1.3.12",
       "releaseDate": "2026-05-11",
-      "releaseNotes": "Welcome tour for new players + win-modal backdrop fix.",
+      "releaseNotes": "Onboarding architecture cleanup \u2014 render-time target gate, retry on telemetry POSTs, signin_framing chained off welcome, no outside-click dismiss.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.11/Freecell-Update.exe",
-          "size": 142085096,
-          "sha256": "66ef906f218b6055a591a96294a01a9e15e41362ce0d071a95277b31e9948cc8"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.12/Freecell-Update.exe",
+          "size": 142087952,
+          "sha256": "14e7a4da1ca0fa6d39596d6b07fc20d2a2b8e5214320e6fbbd4149b5a6797ef6"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.11/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 154877564,
-          "sha256": "c4dae5926f48e62db635aa01d3bdf3bce9269a4080d62c1aa778fb622e5b4a04"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.12/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 154881864,
+          "sha256": "62b5aea428f3f498786374d00e8e22bc73c92a9cfbe0e471243f5ede00d5449b"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.11/MSOFreeCell-Update-mac-x64.zip",
-          "size": 162648485,
-          "sha256": "d88e0dc019aabe512a86db141498cda0f08a8cbece2546b9803cf5c78ca85538"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.12/MSOFreeCell-Update-mac-x64.zip",
+          "size": 162652794,
+          "sha256": "3c32bcc66f6b4ed76dfbf4e03dbab975dd6c55bb699fa68e7aad8557f9e41d2c"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.11/Freecell-Update-Linux.AppImage",
-          "size": 174429859,
-          "sha256": "37c55dca7126364bb5ee4cda60476d15e6e040d355a75a14e4844cfb4c8fae70"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.12/Freecell-Update-Linux.AppImage",
+          "size": 174429693,
+          "sha256": "5fece3790d89db00a6d72710b01f1ac2ccba18213f78a94ac2de531be7976c15"
         }
       }
     },
