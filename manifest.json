@@ -41,29 +41,29 @@
       }
     },
     "minesweeper": {
-      "version": "1.1.12",
-      "releaseDate": "2026-06-04",
-      "releaseNotes": "Replay cursor alignment, win-modal layout polish, and rivals-panel alignment.",
+      "version": "1.1.13",
+      "releaseDate": "2026-06-11",
+      "releaseNotes": "Win modal scrolls at every window size, friendlier free-account prompts, and accurate stats for guest players.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.12/Minesweeper-Update.exe",
-          "size": 97984680,
-          "sha256": "35c723b2bc830540df45afdfc64d62acd2cd84e873b8369a55c3540082794835"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.13/Minesweeper-Update.exe",
+          "size": 97990840,
+          "sha256": "96a12b5e00ac7cd37b1240b9299a4ef45bc44913b2972ae30985b2868d695cc5"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.12/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107884988,
-          "sha256": "6c9e3b825e5c35f80503cf19ea50f0a95ec6af54494725eb06fa3defe05df6c8"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.13/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 107890304,
+          "sha256": "c8a5cf53e98fcd0819852aba38f8f3746a55197d2b6060e202133081abfac845"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.12/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115655859,
-          "sha256": "235366f3dc8cb77c27a7f1da79f03645e2f80dbd715c565dce6b14da024d4fb6"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.13/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115661220,
+          "sha256": "b75d824940c7322e9fb61ff3ca4a679d13ca74bd4b9d1000e397e97dc717cb33"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.12/Minesweeper-Update-Linux.AppImage",
-          "size": 127298236,
-          "sha256": "643027cab26febbcb2b05575d6ab1a571756c032e0cd3daf9d5ff90ae190d94b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.13/Minesweeper-Update-Linux.AppImage",
+          "size": 127228709,
+          "sha256": "349a551c5df954998c732585723a24a7330989cc903bfddc5e0410f814e127fd"
         }
       }
     }
