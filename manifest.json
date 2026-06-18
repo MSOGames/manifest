@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.23",
-      "releaseDate": "2026-06-16",
-      "releaseNotes": "Live Arena race progress (tension ladder) + \"a player\u2019s waiting\" nudge + presence polish.",
+      "version": "1.3.24",
+      "releaseDate": "2026-06-17",
+      "releaseNotes": "Arena polish and hardening (live race ladder scaling, account + anti-cheat improvements).",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.23/Freecell-Update.exe",
-          "size": 142671904,
-          "sha256": "1f052727c4adb79506b05753f5acca3a11ba585e58f1cd05785c02f567730c50"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.24/Freecell-Update.exe",
+          "size": 142675264,
+          "sha256": "a26f9453e94ae5b41a1a4d8de2327cd9915cb46f23bc59522190de716d974576"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.23/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 155700705,
-          "sha256": "01bbb090e95eca8e50a27fdf21feb97e7a8fe40779be8313a1cafd7a8c1e05c3"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.24/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 155703491,
+          "sha256": "d40710f862a72cebd2266f9f37c749f5ee6d0a997dffd14674e2f0cec0dff5b1"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.23/MSOFreeCell-Update-mac-x64.zip",
-          "size": 163471606,
-          "sha256": "b7dbcefff362fa442cb7f39b6146e12504ebe2847fe27e5f74215435fb0a73f5"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.24/MSOFreeCell-Update-mac-x64.zip",
+          "size": 163474385,
+          "sha256": "19a2704ea2b36ae8c04bb6a616fa8c6cfb71277e27c9e3f62d137a970ed6522d"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.23/Freecell-Update-Linux.AppImage",
-          "size": 175237375,
-          "sha256": "ff920d93f73f081907ab99d9dc2488edecfef8ef651882a8b32ab1b34a3a80b8"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.24/Freecell-Update-Linux.AppImage",
+          "size": 175241624,
+          "sha256": "69ef67baf1c636939f9ab87b4dc10ae098f919e9457cb18c151365f11b8efc15"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.17",
-      "releaseDate": "2026-06-16",
-      "releaseNotes": "Live Arena race progress (tension ladder) + \"a player\u2019s waiting\" nudge + presence polish.",
+      "version": "1.1.18",
+      "releaseDate": "2026-06-17",
+      "releaseNotes": "Arena polish and hardening (live race ladder scaling, account + anti-cheat improvements).",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.17/Minesweeper-Update.exe",
-          "size": 98044968,
-          "sha256": "975022bd790094b77e5a3329d7d61d71a1e8d03c3dc42304337069701795bd5c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.18/Minesweeper-Update.exe",
+          "size": 98048504,
+          "sha256": "d56175ed41500500e6dfcb0a7db978ebdb260ef2180b9ba89554785c72b54e1a"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.17/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107948800,
-          "sha256": "0d6a82fca345309cffa0a6d101c85b51dd42d4e189573fbd87a20e0940bd77c2"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.18/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 107951981,
+          "sha256": "5f96ddf09717b6974b43c39c2418e83bb631138a6db14cab5835f3a701fb8ab1"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.17/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115719722,
-          "sha256": "671b7b1376d05fe0aac08aa9b9082b4658075bb97ecce86bb95deeab9c4528a1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.18/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115722869,
+          "sha256": "054df0d24c6d557533d84706f7d4d0eb2399fbdcef314c8752f3464bdcff2c9e"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.17/Minesweeper-Update-Linux.AppImage",
-          "size": 127286027,
-          "sha256": "24324351f6377f040fef99487e92d4875b8c8c2de547327f14d469fc43ab8db7"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.18/Minesweeper-Update-Linux.AppImage",
+          "size": 127290044,
+          "sha256": "0f82bfc9630a41d9c21d1713829b005b31e71d4335ab7305425daa04c1b55fe3"
         }
       }
     }
