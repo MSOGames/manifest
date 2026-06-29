@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.28",
-      "releaseDate": "2026-06-25",
-      "releaseNotes": "Right-click sends cards to the foundations; replays now faithfully reproduce drag moves.",
+      "version": "1.3.29",
+      "releaseDate": "2026-06-28",
+      "releaseNotes": "Every player gets a friendly name instantly \u2014 no name-entry wall before Arena Queue or Group Play; rename it free, and keep it with a free account.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.28/Freecell-Update.exe",
-          "size": 142701064,
-          "sha256": "76fe12e17f028db7cb2c0576fe40e1ed3effa09ab73a306aa8e6c3b1f1bad68b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.29/Freecell-Update.exe",
+          "size": 142701768,
+          "sha256": "7d7db144e70f6b734fcd2648ad384b94b148547990ecd56a273d71818d4335bd"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.28/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 155738171,
-          "sha256": "e2a0255530a5e0afdfd4ff649ed4adb6775ad03454739388e540899d88ef7f5a"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.29/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 155754233,
+          "sha256": "3b2929c49d4bc7e0f45f4d890a58781046e7e0e3b923289e611130ef5951f8b6"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.28/MSOFreeCell-Update-mac-x64.zip",
-          "size": 163509061,
-          "sha256": "35cfba5a3e0cbd22d8d971b9d68e0e93ce815454e41cf82952a84cbef231b798"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.29/MSOFreeCell-Update-mac-x64.zip",
+          "size": 163525165,
+          "sha256": "97d4c26900847a274b88d1732d9dfde1a73df5ca66397cd65a48c31e97a0ce43"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.28/Freecell-Update-Linux.AppImage",
-          "size": 175385083,
-          "sha256": "b44b719928a5bb169aa77cd2e5281ea0f836b1a69eb0438167bcee06075cea6f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.29/Freecell-Update-Linux.AppImage",
+          "size": 175298821,
+          "sha256": "38d75e321488ae4cecf0596bad013b513283b7c748c733633297db97564715c2"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.22",
-      "releaseDate": "2026-06-25",
-      "releaseNotes": "Replays now faithfully reproduce cursor movement during play.",
+      "version": "1.1.23",
+      "releaseDate": "2026-06-28",
+      "releaseNotes": "Every player gets a friendly name instantly \u2014 no name-entry wall before Group Play; rename it free, and keep it with a free account.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.22/Minesweeper-Update.exe",
-          "size": 98074696,
-          "sha256": "3f4b609632ec82481eefbaa0f94fdc52f07bd9bb2f0195b5e3cc7b109ca264f1"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.23/Minesweeper-Update.exe",
+          "size": 98083624,
+          "sha256": "b83137be4b9ccdbe0806211f570b89edb4f7c1210b01279c4a2f30c05cfa9430"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.22/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 107984035,
-          "sha256": "0dc9e9b03a62c348cbb32bc7f6d987f3da68dccc184e25e488f6de4300be130e"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.23/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108000702,
+          "sha256": "7bd023aea96667491a8e5f27322b7f98ce3aaa3275a5d787ef6857cf34451d61"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.22/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115754947,
-          "sha256": "923332559f5fe9cddb99c9de04c4139f195dab1781cb8f9e0784b8486f4aa775"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.23/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115771584,
+          "sha256": "ec3abf28d07ded879dba7ac5351391517d84f06ef6e9759d70bee172d315e517"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.22/Minesweeper-Update-Linux.AppImage",
-          "size": 127335079,
-          "sha256": "6723aec50165c1dfa0521a13c56c5062bf7e60f9dc09c6c2e9c39eed75711fac"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.23/Minesweeper-Update-Linux.AppImage",
+          "size": 127347478,
+          "sha256": "baffe4cc305e4b9bd0e13f4093cca39b3af3b931d3a599b19d98d2bdcf33447e"
         }
       }
     }
