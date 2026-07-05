@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.34",
-      "releaseDate": "2026-07-04",
-      "releaseNotes": "Dot-strip win-modal leaderboard, XP breakdown popover, Beat the Dev badge, arena fixes.",
+      "version": "1.3.35",
+      "releaseDate": "2026-07-05",
+      "releaseNotes": "Competitive timing: the in-game timer is the truth - one clock for HUD, posted time, and replay.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.34/Freecell-Update.exe",
-          "size": 142754000,
-          "sha256": "ce3be7ee2e12f8bf2e8006ffcc24522f6d6b85e2c4760170508e8fb63b5d6f98"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.35/Freecell-Update.exe",
+          "size": 142757320,
+          "sha256": "15f7dc03cff832174f0514bb561a34cbd61b20b005b9a88fdd3216b515256ce8"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.34/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 155827077,
-          "sha256": "59f31fbdded93730ceaacf19acbcc52f806fd9a3ff2f18ed10caeb3006cb4ec0"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.35/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 155830452,
+          "sha256": "ef0387d2247ef5273135a1b044f9324f73fdfc4535291d3fd017391e879093ca"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.34/MSOFreeCell-Update-mac-x64.zip",
-          "size": 163598036,
-          "sha256": "fef3d15af6eece6ff9241801c0ed0c9ee088f4c24709450a826dab3b5a9dffbc"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.35/MSOFreeCell-Update-mac-x64.zip",
+          "size": 163601402,
+          "sha256": "93a8ca3f6e409488cbcbca562737b78159d49145d53d762ac345de82217d41e1"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.34/Freecell-Update-Linux.AppImage",
-          "size": 175372655,
-          "sha256": "ffd64bddd34220e0ee716b2046a145e9005266ffb67e3495210141b9db44af2d"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.35/Freecell-Update-Linux.AppImage",
+          "size": 175376985,
+          "sha256": "1e0353253e1a14cd3b6e100c16312169ebf52078f276b5e1669b10ef24a63bee"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.28",
-      "releaseDate": "2026-07-04",
-      "releaseNotes": "Dot-strip win-modal leaderboard, XP breakdown popover, Beat the Dev badge, fixes.",
+      "version": "1.1.29",
+      "releaseDate": "2026-07-05",
+      "releaseNotes": "Competitive timing: the in-game timer is the truth - clock and clicks carry through restarts.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.28/Minesweeper-Update.exe",
-          "size": 98109136,
-          "sha256": "cd1111895b8035b71f664b4ba6d108f9a6a63d058b5bc70554e28394ca72d02e"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.29/Minesweeper-Update.exe",
+          "size": 98112432,
+          "sha256": "f2cf003740603582f25af029b2f6c91eea062a7fb0dc5614efd31c37b867d7d7"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.28/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108053200,
-          "sha256": "357e4ea111afcef08a312a5e88e56b5181b1996b719dbd5f50cf2d4c73d0f7c4"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.29/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108060031,
+          "sha256": "1e596cc11c42a4e5e5ff75210d3024cdefdc8771ba63afb69a95980cc97f48f3"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.28/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115824123,
-          "sha256": "b49dcde5f65f3b839a72d1eb2141d38ba46ceb62c2a0b86bb16b7e388b68e49c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.29/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115830953,
+          "sha256": "0bc05b2c8a6e00ef6d01ec0b8691d9227188090026e76b533ed537ad3956089e"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.28/Minesweeper-Update-Linux.AppImage",
-          "size": 127404882,
-          "sha256": "a10978a75c47c2c6051eb48261f5029f63940805798850ca7f424025344f74a5"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.29/Minesweeper-Update-Linux.AppImage",
+          "size": 127408956,
+          "sha256": "eb6930be4d8f5f6fd09df881ec9f02c2a1e9153b72e6600b0d794796c1f0a9b8"
         }
       }
     }
