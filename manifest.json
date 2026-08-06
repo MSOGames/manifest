@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.3.47",
-      "releaseDate": "2026-08-05",
-      "releaseNotes": "Demo carry-over client, Group Play identity fixes, lobby polish.",
+      "version": "1.3.48",
+      "releaseDate": "2026-08-06",
+      "releaseNotes": "Foundation retreat, interaction-race fixes, competitive-time integrity.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.47/Freecell-Update.exe",
-          "size": 152750904,
-          "sha256": "2857b8a8d24b02d7cd91534066bbfad3812e3a12e170297f2a47909183db30d5"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.48/Freecell-Update.exe",
+          "size": 152756192,
+          "sha256": "6bc16b0283cbd506fdb88ac41102a4c7d25db7a30ddad01f528ff12d1286c43d"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.47/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 165344545,
-          "sha256": "f60c1fa5d68697ab58628cf97ff283809d95ec575831f1e67d738bc5b234647b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.48/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 165352774,
+          "sha256": "a5ce85222160c46ad4e6d655e3e090b18490e884132e9eecd00ee98fe54cfa0f"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.47/MSOFreeCell-Update-mac-x64.zip",
-          "size": 173115478,
-          "sha256": "585e91eca0a32f58e165b629f5c022d6dd78a90b7087dbd444eddc7ed909955f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.48/MSOFreeCell-Update-mac-x64.zip",
+          "size": 173123718,
+          "sha256": "42139b9f7b462fa12ae4ca85ba241c19a9f3d287cd21f1cd43d10cbc85df7013"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.47/Freecell-Update-Linux.AppImage",
-          "size": 184869710,
-          "sha256": "876acecdae1e4d9fed3f703056bca0fa4bcacba2083d33eda6a8899488430e63"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.3.48/Freecell-Update-Linux.AppImage",
+          "size": 184877433,
+          "sha256": "caad96f8fe1e9485ea49eb77a34522deca882be23d6c1dc0c2ffbcf97d19cf67"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.41",
-      "releaseDate": "2026-08-05",
-      "releaseNotes": "Group Play identity fixes shared with FreeCell.",
+      "version": "1.1.42",
+      "releaseDate": "2026-08-06",
+      "releaseNotes": "Competitive-time integrity fixes.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.41/Minesweeper-Update.exe",
-          "size": 98246456,
-          "sha256": "a7306c53ac0c3a86de21ebf63925bf027e24343149fa67df84d365f98888fd61"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.42/Minesweeper-Update.exe",
+          "size": 98248864,
+          "sha256": "1293de0d2d472857dc232f4d680ad3a35b096470835c39f671694f7b3408233d"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.41/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108197040,
-          "sha256": "da759b15e89ae616b2c32c4e9331fae46fa871bc918d9ec5e1fb27d4a2acd7ec"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.42/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108200334,
+          "sha256": "b26f21b1a38c876b420c675cc02e8cd9c4cc1f63ea38c7caa66c3fb0f5ddf242"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.41/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 115967970,
-          "sha256": "bcbe9f9353f319a8b1c65999795961ee98229e3f17c4bbf5f236e141c7dc0d03"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.42/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 115971237,
+          "sha256": "4313282282c2efcde45c2e63ccb25390820bbf55fb87974bd29c940b47cb5574"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.41/Minesweeper-Update-Linux.AppImage",
-          "size": 127814668,
-          "sha256": "11290594fa03812b02962493d68bb95889837ca3c386c3b677cd521c2087d951"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.42/Minesweeper-Update-Linux.AppImage",
+          "size": 127810497,
+          "sha256": "495959550bbc411d4993eda70da0c13b2cbeee32f7486fd126379796d155649b"
         }
       }
     }
