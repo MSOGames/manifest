@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.6",
-      "releaseDate": "2026-08-19",
-      "releaseNotes": "First-session and layout fixes: reliable welcome onboarding, no clipped foundations in short landscape, readable player names, and trophy panel cleanup.",
+      "version": "1.4.7",
+      "releaseDate": "2026-08-21",
+      "releaseNotes": "Fixes: one card size across the board, daily results and streaks no longer assert unknowns, honest account-deletion copy with a real local reset, and the onboarding spotlight no longer strands itself.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.6/Freecell-Update.exe",
-          "size": 152863424,
-          "sha256": "9fcfe755dff90f0e2347326b468195db8ca3c74391bdf680fed0626e7aee6b78"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.7/Freecell-Update.exe",
+          "size": 152876856,
+          "sha256": "da318c113b34135ff0af790c6fddbaddd50de7085a7203ce74621cb9d581b68e"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.6/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 165454659,
-          "sha256": "83f5c49bc6480b6d41e79048f5f92ffe65493d023df129303db470edf88e11a2"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.7/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 165466257,
+          "sha256": "e0faa8b13035bdf6fa1b46c65367df6f3c1048afd93adc7cbfed48a7fe840967"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.6/MSOFreeCell-Update-mac-x64.zip",
-          "size": 173225560,
-          "sha256": "077b384b014e2fbb8ef1f6930302d57c4a990b3fcb3795f58ada2ef907b157c0"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.7/MSOFreeCell-Update-mac-x64.zip",
+          "size": 173237185,
+          "sha256": "dc3db3453a23ddde64a84f41308b3a8686869e9f6919f8f20186ea875351368a"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.6/Freecell-Update-Linux.AppImage",
-          "size": 184996702,
-          "sha256": "771c3d3f59cbf327fae77aec7e3a26945b86a15df91a0dcfe7f91e577cac2adc"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.7/Freecell-Update-Linux.AppImage",
+          "size": 185009554,
+          "sha256": "e9fcab7d4cfcb4fbdb4e91d8684f1872569f61c7c7ffe0e96045e548e08ba9d0"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.50",
-      "releaseDate": "2026-08-19",
-      "releaseNotes": "Shared fixes from the FreeCell v1.4.6 round: reliable welcome onboarding, readable player names, and trophy panel cleanup.",
+      "version": "1.1.51",
+      "releaseDate": "2026-08-21",
+      "releaseNotes": "Fixes: daily results and streaks no longer assert unknowns, honest account-deletion copy with a real local reset, and the onboarding spotlight no longer strands itself.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.50/Minesweeper-Update.exe",
-          "size": 98283480,
-          "sha256": "6c9dfb52ef6089f6a3dc28049edc32f0edfbaf2fbe3fcee51037a382e48ac5ef"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.51/Minesweeper-Update.exe",
+          "size": 98290136,
+          "sha256": "4d57a5b7e517151f6f055a0faa92829d7af49fe90c2edb003137ad4d9cfb47f5"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.50/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108242466,
-          "sha256": "ae4902857372957b4a6dd09410f94434609d46d3a60e679e2d7a53f7379b2de0"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.51/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108253195,
+          "sha256": "992a1fd7fcec037fbbecb2105c05194cd936629792ccc4b6940592d9bae1b38d"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.50/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116013394,
-          "sha256": "6d3cbbeb9256a53ff363d5a907c40a212bca6a294356a36ebed958b015858149"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.51/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116024104,
+          "sha256": "bd92c14df5a1a4a02c47af27dc135e0abf27bbc09e89719e991f1d26fea3df3c"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.50/Minesweeper-Update-Linux.AppImage",
-          "size": 127859881,
-          "sha256": "59c43e535ebac9fc313fc18ca2ebb89e0c758bf05fb4c93da301930eed5e18c9"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.51/Minesweeper-Update-Linux.AppImage",
+          "size": 127868038,
+          "sha256": "6f742bea4df264a24d85fc9c298b20c1321ce2aff308a7df310539044439da93"
         }
       }
     }
