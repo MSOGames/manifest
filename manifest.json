@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.10",
-      "releaseDate": "2026-08-23",
-      "releaseNotes": "Every dismissible dialog now has a visible way out, and close buttons sit in the dialog's corner rather than the window's.",
+      "version": "1.4.11",
+      "releaseDate": "2026-08-25",
+      "releaseNotes": "Arena Voice announcer, Arena Queue View My Result, arena fairness on rival disconnects, profile-merge notice.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.10/Freecell-Update.exe",
-          "size": 152900640,
-          "sha256": "6dd55a5fc92a4592b462005b0f77bf0b5c7174655612a3ae95973285ca32b386"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.11/Freecell-Update.exe",
+          "size": 152922792,
+          "sha256": "036016d7f3a6846bc4d1afa4ccae9e66aadd1d7ef07a32fc5ef2e548c5431db3"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.10/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 165484522,
-          "sha256": "71dc098eb50d0f4b1f4721fbff7d89e898950a2d396e05be2028e7379dcabf60"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.11/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 165499861,
+          "sha256": "9df6997bee1683c5e234cb1c64da0d6a27131f8f5eca3e3bf5bfdd8f6e9860b2"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.10/MSOFreeCell-Update-mac-x64.zip",
-          "size": 173255418,
-          "sha256": "c248741d94fbc5b137042c17f23436e63af1be3de8a25244a3b740da0762b176"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.11/MSOFreeCell-Update-mac-x64.zip",
+          "size": 173270780,
+          "sha256": "6b5d615d9e1f6746f7584f043b8cf69bf99263d2b7a5246c9d358fe9d9251731"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.10/Freecell-Update-Linux.AppImage",
-          "size": 185045838,
-          "sha256": "46023c7b7e2da78834db21080fd673e02505ed3b9691a8618e0a41fd1f7c7848"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.11/Freecell-Update-Linux.AppImage",
+          "size": 185038367,
+          "sha256": "b6cbab8c3eaf41edaa83b81295f6b82081ec85bb97276421091207697ce9a5d3"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.54",
-      "releaseDate": "2026-08-23",
-      "releaseNotes": "Every dismissible dialog now has a visible way out; the legacy Statistics modal is retired and Ctrl+S opens the Trophy modal.",
+      "version": "1.1.55",
+      "releaseDate": "2026-08-25",
+      "releaseNotes": "Harbourmaster announcer, live Clicks counter, 3BV/IOE explainer, Arena Queue View My Result, arena fairness.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.54/Minesweeper-Update.exe",
-          "size": 98297296,
-          "sha256": "da3f8264cd6ccc24bf52875281b6d991edd3d6ba355404d0017279685bd812ae"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.55/Minesweeper-Update.exe",
+          "size": 98312352,
+          "sha256": "783b725652dc471bafeafd72b640687bc0f3d6d793ce5e295f1929d2e968d918"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.54/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108267839,
-          "sha256": "150bb9be06f25db5aeed76cfc0bf7df8597154389dd32fffaf77127fa3d8ce09"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.55/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108290690,
+          "sha256": "2c2f600831d45807de5355a76c46b5057b8442c383c2a53a4dc65fd3449973e4"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.54/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116038773,
-          "sha256": "9737f046cde81c8488662b80f5c6d7fc88616083fd3cf44f587d955e75ee7066"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.55/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116061617,
+          "sha256": "27bf2e399a4bb71479a98166b23e25e6f9263baad5d65c3a9fac116b252d6d9f"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.54/Minesweeper-Update-Linux.AppImage",
-          "size": 127880200,
-          "sha256": "6a33a91d05da3bc2366479c6656d89673669d860410d906fb1750d1dd60bd610"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.55/Minesweeper-Update-Linux.AppImage",
+          "size": 127904924,
+          "sha256": "fa1f8dd3a528bf770ee387e25a2d7a7265821c4108b63512405f8a107385bfe9"
         }
       }
     }
