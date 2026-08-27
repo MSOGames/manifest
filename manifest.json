@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.13",
-      "releaseDate": "2026-08-26",
-      "releaseNotes": "Mobile parity with the Steam Demo, demo accounts available, modal stacking fix, early presence beat.",
+      "version": "1.4.14",
+      "releaseDate": "2026-08-27",
+      "releaseNotes": "A finished hardcore deal is never preserved behind an Arena round; Arena countdown shows above open dialogs; DealSession foundation.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.13/Freecell-Update.exe",
-          "size": 152930552,
-          "sha256": "feb96e538c8c3b1c98fc025a0d597827af67e52f3435abfa2654b68fe6509226"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.14/Freecell-Update.exe",
+          "size": 152945560,
+          "sha256": "bf7c83ebbe154772004ef6f0512845c4128fbbb9ad1325e8c75fb0bea63626e4"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.13/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 165506452,
-          "sha256": "59715b07bef3fcf113a74357814fb38641fc8e4116065471ab89fe0b888e8b7b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.14/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 165513552,
+          "sha256": "ba5bb25c11bcc52ba0604cf5c16e87fd8276686c06da3c5ea52dc6de1ca8bced"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.13/MSOFreeCell-Update-mac-x64.zip",
-          "size": 173277358,
-          "sha256": "5db9dc358bb76bcfa1ade7f8772d3b6b2e16101645ff67b5d5c39d4618fd684d"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.14/MSOFreeCell-Update-mac-x64.zip",
+          "size": 173284479,
+          "sha256": "c7d3b7a95b7c990c9aaccef35793214c2197c3d7d321c9761f0f09a4b712301e"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.13/Freecell-Update-Linux.AppImage",
-          "size": 185042047,
-          "sha256": "20f87c0c8ff93254a7f2937ffa17f342adb7fcf7ca9ac443cd66770481d1ca5f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.14/Freecell-Update-Linux.AppImage",
+          "size": 185058461,
+          "sha256": "657b86153656f26fbba6301a92e022a3b1cdb4dce925910ca854f2cb2d94ee06"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.57",
-      "releaseDate": "2026-08-26",
-      "releaseNotes": "Modal stacking fix and early presence beat.",
+      "version": "1.1.58",
+      "releaseDate": "2026-08-27",
+      "releaseNotes": "Arena countdown shows above open dialogs; solo-game restore after an Arena round no longer mis-tagged; DealSession foundation.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.57/Minesweeper-Update.exe",
-          "size": 98315808,
-          "sha256": "79fbccf3701bad0ea9feac54fe7759f24844b4d3462c66b428e49e05213a9834"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.58/Minesweeper-Update.exe",
+          "size": 98320824,
+          "sha256": "f5a9386bf2865a7c35b66489e715c206da245beaea84d35a5cb0ebae50bca08c"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.57/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108295573,
-          "sha256": "68ef517ec2c0703496abea73fa9b35e6cdb7b0836b2450f858738b6d4beba55c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.58/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108303981,
+          "sha256": "e982846000ebfb43c32b993ad2c52b24d77810d7038c7464e251c845ddb12c9a"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.57/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116066490,
-          "sha256": "d512e782320b9dcf3eb0dc6d397159e699925614f8f6861b3761bf6720045e5e"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.58/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116074951,
+          "sha256": "794bc37f1cb16e63a1cd2a331bdcfe7f15421d63b4034bdd7055fac62b0d88ae"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.57/Minesweeper-Update-Linux.AppImage",
-          "size": 127917110,
-          "sha256": "08fbe3d02d8ec44983e1139e16d2eef1698d9af2f71edebf912d98687fd1e2ff"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.58/Minesweeper-Update-Linux.AppImage",
+          "size": 127925518,
+          "sha256": "436ee0679c03477fc0c53c34409c2b2d04806a907e006c411b748c1e74dbcc62"
         }
       }
     }
