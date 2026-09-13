@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.27",
-      "releaseDate": "2026-09-11",
-      "releaseNotes": "Lobby polling in a compact shape (v3 keyed section deltas) so large Group Play lobbies stay quick.",
+      "version": "1.4.28",
+      "releaseDate": "2026-09-13",
+      "releaseNotes": "Group Play and Arena lobbies update live; foundation stacking fix; rivalry quests follow the rival you challenged.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.27/Freecell-Update.exe",
-          "size": 116959928,
-          "sha256": "bedb9f20e8458a162818f1811431db0829f5647f1e4fb80eb0b95bd228b674ce"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.28/Freecell-Update.exe",
+          "size": 116971416,
+          "sha256": "ee1d7a79a85ec35ad923a863cf9a95b2d5b124b4c042adec2c8fa0ea1b840296"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.27/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 129348270,
-          "sha256": "cde78b35a5581d9099622c9239f14e418c0f31e8721eafc5761bdc4ef4b007e0"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.28/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 129365152,
+          "sha256": "0de8e1b24b2a6e2fcf592174959ccb051b3764f56b0a23e40cea2b2dab528c58"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.27/MSOFreeCell-Update-mac-x64.zip",
-          "size": 137119192,
-          "sha256": "1d0b0e837dbf080b43959fce4f503974e91f7ee4296705211a1929be6e554c1c"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.28/MSOFreeCell-Update-mac-x64.zip",
+          "size": 137136044,
+          "sha256": "3fcb7bf5fa95b06af4e0257b4c0769300317cc4f7e05c80e079394b45371b413"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.27/Freecell-Update-Linux.AppImage",
-          "size": 148919745,
-          "sha256": "b9539a39cfb646fad92677aaf9b36425e83086d2ca18d3f25af9ab46375270f1"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.28/Freecell-Update-Linux.AppImage",
+          "size": 148923172,
+          "sha256": "e8b264eed3dd2229d77855701519c0ca37fae1bf12886e6cde29048e955c6724"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.71",
-      "releaseDate": "2026-09-11",
-      "releaseNotes": "Compact lobby polling (v3 section deltas); shared-code parity with FreeCell v1.4.27",
+      "version": "1.1.72",
+      "releaseDate": "2026-09-13",
+      "releaseNotes": "Group Play and Arena lobbies update live; rivalry quests follow the rival you challenged.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.71/Minesweeper-Update.exe",
-          "size": 98421584,
-          "sha256": "0dd7f63d511d4d5c3a800b6b08ea7546dd41b04fbc5f539c849ab740f0703f7b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.72/Minesweeper-Update.exe",
+          "size": 98439184,
+          "sha256": "225123068dddfd38a838324df0475f671194b39412d901ebe7730916a0792d6d"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.71/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108425343,
-          "sha256": "09dadf5ffc4d17549daadce5f48118be468f59535cd844672a292b4c552efda9"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.72/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108441927,
+          "sha256": "b78837c5e8d099d45e9d5bd66bf955cd0b6a78ba865dd68699c05106fe3c4712"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.71/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116196218,
-          "sha256": "ac2cb6072d0e0bd9a01dfd42607608ebf99b7d7021eca3448d2c53c465905792"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.72/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116212838,
+          "sha256": "8bba0d74f8f0d321dfa1a71283663175d203660bf0a16206032e674251ccbddd"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.71/Minesweeper-Update-Linux.AppImage",
-          "size": 127946055,
-          "sha256": "c26a497ad014a3ee4839b2730c4a3a61f94cc297452c099bd254957ee3fecd30"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.72/Minesweeper-Update-Linux.AppImage",
+          "size": 127970761,
+          "sha256": "49a1d166f37cb2a2b05260950a4c5742b68f06263b83600c2dde55ce001b75a0"
         }
       }
     }
