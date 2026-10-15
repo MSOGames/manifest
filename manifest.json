@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.44",
-      "releaseDate": "2026-10-14",
-      "releaseNotes": "Every dot on the results strip named and watchable; style quests pay XP; win streak on the win screen; opponents' progress in Group Play.",
+      "version": "1.4.45",
+      "releaseDate": "2026-10-15",
+      "releaseNotes": "- Tap to move: one tap sends a card where it should go. Prefer a double-tap, or tapping the card and then the place? Pick yours under Settings > Gameplay > Moving Cards. Dragging always works.\n- A card in a free cell now goes up to its foundation on a tap instead of sliding into another free cell.\n- Double-taps are easier to land, and a small wobble of the finger no longer turns a tap into a drag.\n- Packed columns keep a little more of each card showing, so the suit stays readable on a small screen.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.44/Freecell-Update.exe",
-          "size": 117170696,
-          "sha256": "7ad4556eb14bed0f4ca19db51089a94739c867865edc79cdd3b6a9c906839fdb"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.45/Freecell-Update.exe",
+          "size": 117182088,
+          "sha256": "00c38f3bbe2dddf7f620b66d761ae633040a7ee73e50389f86d3b378110add74"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.44/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 129649872,
-          "sha256": "9cb632fb48cea9dfa752b059259946655fd239f9f6ee024201ec7f066e293503"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.45/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 129662827,
+          "sha256": "64457e9e8e346c25bf96110cec0cbb123dc8c7723770b75dec22aaa72fb0137a"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.44/MSOFreeCell-Update-mac-x64.zip",
-          "size": 137420793,
-          "sha256": "ef250ed9694ddef510cb633535f95478d2b009af0f4dcea9f8f5077bfc485306"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.45/MSOFreeCell-Update-mac-x64.zip",
+          "size": 137433703,
+          "sha256": "3d0f9575526abac2508042cabfa504863f3888d989c808726e2400094c9e44df"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.44/Freecell-Update-Linux.AppImage",
-          "size": 150022793,
-          "sha256": "d2b366c3035d20a94084b0041caadd4f1475e736caf38f3c8d1907f4d84397f5"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.45/Freecell-Update-Linux.AppImage",
+          "size": 150030609,
+          "sha256": "b79a67c03e06afbb030a6ddc617952b21e33cc1ac2f7907fab46f4adf4525545"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.88",
-      "releaseDate": "2026-10-14",
-      "releaseNotes": "Every dot on the results strip named and watchable; style quests pay XP; win streak on the win screen; Safe-first-click per-seed comparisons.",
+      "version": "1.1.89",
+      "releaseDate": "2026-10-15",
+      "releaseNotes": "Results on a seed now compare Safe-first-click and Standard openings together: FIRST!, personal bests and Watch Best count every opening, and the note under a result says which opening the record used.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.88/Minesweeper-Update.exe",
-          "size": 98645488,
-          "sha256": "66635f237c23699247c14184ef4da63a8ea55b65004a115a38069446924a788b"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.89/Minesweeper-Update.exe",
+          "size": 98646976,
+          "sha256": "9fe40423dcbcae4d77e1da6dcc2747ec5cbeb0ffbe8000675a516d1a5621061a"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.88/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108694930,
-          "sha256": "9353af7e97acffb98e3334fd8291c2b7ee363a8d561b9a6503b5e047554e1763"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.89/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108696705,
+          "sha256": "e2207b2580b04d9e8c2d9a14eed7c366f8e24d1ade50c6e36d888cfd633bab29"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.88/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116465832,
-          "sha256": "3c77ed50975fed61b9d9410a4628f3a693e6f89e20c5a38d516d8201f986bbe8"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.89/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116467597,
+          "sha256": "9c6ecc51d4d5afeb29da4c0d63ccb6b3db902afcdf3a4731a9611de3dbfb4f5c"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.88/Minesweeper-Update-Linux.AppImage",
-          "size": 128979342,
-          "sha256": "d3441850dfa4f6b91a738f75bf10b3248d1030827221f4d661e4e13304e744c9"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.89/Minesweeper-Update-Linux.AppImage",
+          "size": 128979167,
+          "sha256": "79950c2d09200de33d4c1ed75d16a7b269fe6425a3ea6463b993dcf020a9c393"
         }
       }
     }
