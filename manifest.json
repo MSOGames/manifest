@@ -16,7 +16,7 @@
     "freecell": {
       "version": "1.4.45",
       "releaseDate": "2026-10-15",
-      "releaseNotes": "- Tap to move: one tap sends a card where it should go. Prefer a double-tap, or tapping the card and then the place? Pick yours under Settings > Gameplay > Moving Cards. Dragging always works.\n- A card in a free cell now goes up to its foundation on a tap instead of sliding into another free cell.\n- Double-taps are easier to land, and a small wobble of the finger no longer turns a tap into a drag.\n- Packed columns keep a little more of each card showing, so the suit stays readable on a small screen.",
+      "releaseNotes": "- Tap to move: one tap sends a card where it should go. Prefer a double-tap, or tapping the card and then the place? Pick yours under Settings > Game > Moving Cards. Dragging always works.\n- A card in a free cell now goes up to its foundation on a tap instead of sliding into another free cell.\n- Double-taps are easier to land, and a small wobble of the finger no longer turns a tap into a drag.\n- Packed columns keep a little more of each card showing, so the suit stays readable on a small screen.",
       "platforms": {
         "win32-x64": {
           "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.45/Freecell-Update.exe",
