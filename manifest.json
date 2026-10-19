@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.46",
-      "releaseDate": "2026-10-18",
-      "releaseNotes": "- New to FreeCell? Easy now offers help: the best move shown in gold with its reason, move arcs that show which moves keep the deal winnable, and a card the moment a deal can't be won, with a way back. Refused moves shake and say why.\n- Group lobbies: New Game opens the lobby pane, places and leavers show on the chip, the countdown runs on server time, and the winner's replay is a tap away from Race decided.\n- Fixes: watching a replay mid-deal no longer spoils your result; round results no longer go empty.\n- A player without an account now sees why they can't be challenged, and how to be. Settings: the race chip and notices moved to Display; Moving Cards is on the Accessibility tab too.",
+      "version": "1.4.47",
+      "releaseDate": "2026-10-19",
+      "releaseNotes": "- Replays recorded on a phone or tablet now show a fingertip ring only while the player's finger was on the screen, and the pointer no longer slides from one move to the next. Every existing replay plays this way too; mouse recordings are unchanged.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.46/Freecell-Update.exe",
-          "size": 117296792,
-          "sha256": "f1bec891e9d1661a3c0dc13954b31045058677654e2514bd8883dbdaaa79b19b"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.47/Freecell-Update.exe",
+          "size": 117299520,
+          "sha256": "43d3fca7392757ebc5ecc1fee7fa12baa59ad979a18b4dde20847409bfff42bb"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.46/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 129826930,
-          "sha256": "ddc6196fdf76dfe69e26042bd166038d4b74925c7f03a53f89f556d66e2c9dd0"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.47/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 129831895,
+          "sha256": "43b0f72782e5ca54deabf55f2abe6af37fa45d231d0f32b63a3956f9104772af"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.46/MSOFreeCell-Update-mac-x64.zip",
-          "size": 137597867,
-          "sha256": "89b3887dd60d179d4116db2d8691838f6a8874a8498a81fbb058d84ac40243f4"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.47/MSOFreeCell-Update-mac-x64.zip",
+          "size": 137602832,
+          "sha256": "7b6c0924a5c9e9e1a321cfd0cb0ce2e623a756aba23859f72d32755781c7cd07"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.46/Freecell-Update-Linux.AppImage",
-          "size": 150219438,
-          "sha256": "dc54a1f9858f2fb2678811fc791a1ca292981d1ca6aac7827297c5f86b36af63"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.47/Freecell-Update-Linux.AppImage",
+          "size": 150247905,
+          "sha256": "3a2f0eb0d43061a484c95ac6ac298e1b11a8e14a0a58ea7da7dc5384bf110002"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.90",
-      "releaseDate": "2026-10-18",
-      "releaseNotes": "Shared fixes: a replay watched mid-game keeps recording your game; lobby round results no longer go empty after a poll error; notices no longer wait behind a lingering toast.",
+      "version": "1.1.91",
+      "releaseDate": "2026-10-19",
+      "releaseNotes": "Replays recorded on a touch device no longer slide the pointer between moves.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.90/Minesweeper-Update.exe",
-          "size": 98702480,
-          "sha256": "d5f8f40d0e92c2c3e4543ee4b157fcc0fd534c9c898a854c8eb28e7ff8462847"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.91/Minesweeper-Update.exe",
+          "size": 98706424,
+          "sha256": "a37bdd5efc3f9389f36f06083e1ea2e1f1fe4829ca66a259aeed7e17a6dbd205"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.90/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 108762382,
-          "sha256": "4e344108c730a743f68cd754c3bd4ba67cfd606c23d1cbd0881c77c0c6924af6"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.91/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 108766354,
+          "sha256": "15cb860a25dd8c03d5e6823f333afe4373a3bc30dbb441fde00ce3129f0b92a0"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.90/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 116533268,
-          "sha256": "fe963f0fe4245667577dce816ee5c2792666aa2c1fb8709a8fcad81b59e8203c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.91/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 116537205,
+          "sha256": "f19b068b84b786b5568cd2f25cbdbdf8f6e19c3b978ae5edc9967911359f11ce"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.90/Minesweeper-Update-Linux.AppImage",
-          "size": 129044720,
-          "sha256": "87857659cd731491f28743a57276da668864620b8b3b62f55c613aef593e66a3"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.91/Minesweeper-Update-Linux.AppImage",
+          "size": 129044652,
+          "sha256": "c0b0319d62dbc834af1fb5c2873e98494ae89036e984d6e83d110ed17424925c"
         }
       }
     }
