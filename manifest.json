@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.49",
-      "releaseDate": "2026-11-08",
-      "releaseNotes": "- Steam players: you now have an account the moment the game opens, signed in through Steam, with nothing to fill in. Add an email in Settings > Account to play as yourself on your phone or another PC. Deleting the account shows exactly what it removes before you confirm.\n- Long columns pack their cards to stay on the board instead of running off the bottom; replays are unchanged.\n- Group and Arena: a round that starts while you watch a replay now takes the board cleanly, a seat quiet for 90 seconds shows Away, and the lobby clock can no longer be skewed by a stale cached response.\n- Fixes: auto-moves no longer stall after Restart, the gold best-move arc on Easy points at the right card, the foundation callout says how to send a card up for your input, help offers stay off Hardcore, the bell has Mark all read, and the Group Play panel sits below the status bar.\n- Under the hood: a newer Electron (no more black windows on some PCs), every Windows file signed.",
+      "version": "1.4.50",
+      "releaseDate": "2026-11-09",
+      "releaseNotes": "- Steam players who already had an MSO account: Settings > Account now has \"Sign in with an existing email to link this Steam account\". Sign in once and the Steam account's games and records move into your email account; Steam signs you in to it from then on. Adding an email that already has its own account offers the same sign-in instead of a dead end.\n- The sign-in and create-account windows keep their buttons in view when the form is taller than the screen (phone landscape), and \"Account created!\" is shown where you can see it.\n- The Arena Hour pop-up and every other anchored card now measure themselves and stay fully on screen instead of running off the bottom of the window.\n- Too many sign-in attempts in a row now says so plainly instead of showing the limiter's rule text.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.49/Freecell-Update.exe",
-          "size": 143429416,
-          "sha256": "6992fd19fafbf57a4d29611b1a6950020c752caa3228f7c009f70962e54f7da1"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/Freecell-Update.exe",
+          "size": 143447272,
+          "sha256": "1e4e5d68457295b9cd397e8e0f14345ec5fbd69c49f82c2d7e66b79bc43b46c7"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.49/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 142427365,
-          "sha256": "eacb8564a455b7bf55832cc49b443424acc2a9cbb183dd4157a1551d1f9543d1"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 142441093,
+          "sha256": "ea4e02511f2cdeeb85000e9e7fee690db4d090c3f4361f587659b11cd3767749"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.49/MSOFreeCell-Update-mac-x64.zip",
-          "size": 149652544,
-          "sha256": "3129e24e2485dd2f4055c35fe80e54d1ff0f8b2f1b89f909d337a8f8d0550b84"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/MSOFreeCell-Update-mac-x64.zip",
+          "size": 149666272,
+          "sha256": "9c7d31b52dbe54fcd3e2f19c17239498d4f7445fc8fcf7ee6ffee545de6c0444"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.49/Freecell-Update-Linux.AppImage",
-          "size": 151622501,
-          "sha256": "24aa85b9579bee6fb58390a468f2e3a42f4679438247833019309d8c5f35e10f"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/Freecell-Update-Linux.AppImage",
+          "size": 156451564,
+          "sha256": "10094f3f45ebff3603ab3759d4d01ce8409d180b020a55121ed6f50a34481840"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.92",
-      "releaseDate": "2026-11-08",
-      "releaseNotes": "Shared fixes with MSO FreeCell Arena 1.4.49: a newer Electron (no more black windows on some PCs), every Windows file signed, Mark all read in the bell, account deletion shows what it removes.",
+      "version": "1.1.93",
+      "releaseDate": "2026-11-09",
+      "releaseNotes": "Shared fixes with MSO FreeCell Arena 1.4.50: the sign-in and create-account windows keep their buttons in view when the form is taller than the screen, anchored pop-up cards stay fully on screen, and too many sign-in attempts says so plainly.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.92/Minesweeper-Update.exe",
-          "size": 124663480,
-          "sha256": "910b351882bd5c9f16ddde4d9a3c2c993e881f87649221847fd49c29056eb6de"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/Minesweeper-Update.exe",
+          "size": 124672776,
+          "sha256": "8e5addc718d937b69b2776cea99f5608b2d9edd6238789d4b321ae56af508d99"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.92/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 120540506,
-          "sha256": "83c7c6d21f3f3f36143e3ff97a8a2a20a8a1a83d09b694c75463acc283c1d9e7"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 120553443,
+          "sha256": "b50141e1939b997ec2ec1a29d7748a7c9942a5c6f04bc00e178c95b15e0320da"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.92/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 127765723,
-          "sha256": "6d95243a20da033dfd8bdc2af5b4f297efe47086a640365ff10ee91ac4e9495c"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 127778636,
+          "sha256": "0fa8e6f08f5662c12d67aaa4a741f1204da8f69bcb86b6803583e0f396104155"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.92/Minesweeper-Update-Linux.AppImage",
-          "size": 129996372,
-          "sha256": "5089175951aabbb5eb5c6e650d2db09ac42f3c9efee30582cdb271d839a9b466"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/Minesweeper-Update-Linux.AppImage",
+          "size": 134720123,
+          "sha256": "3e7ce18bd2c91c8c80db34057cc6182bc4fea7082f3164a1def13a9a7f84d8ef"
         }
       }
     }
