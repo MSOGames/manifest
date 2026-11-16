@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.50",
-      "releaseDate": "2026-11-09",
-      "releaseNotes": "- Steam players who already had an MSO account: Settings > Account now has \"Sign in with an existing email to link this Steam account\". Sign in once and the Steam account's games and records move into your email account; Steam signs you in to it from then on. Adding an email that already has its own account offers the same sign-in instead of a dead end.\n- The sign-in and create-account windows keep their buttons in view when the form is taller than the screen (phone landscape), and \"Account created!\" is shown where you can see it.\n- The Arena Hour pop-up and every other anchored card now measure themselves and stay fully on screen instead of running off the bottom of the window.\n- Too many sign-in attempts in a row now says so plainly instead of showing the limiter's rule text.",
+      "version": "1.4.51",
+      "releaseDate": "2026-11-16",
+      "releaseNotes": "- Your level now shows beside your name (Lv 7) on lobby rosters, the race chip, round results, Top Players, and the daily and challenge boards, from level 2 up.\n- \"Step up\" on the win screen now sits beside your quest: tap it to race the record holder on your next deal, tap again to change your mind. It no longer starts the deal for you.\n- Coming back to a deal you left for ten minutes or more? A short note tells you its clock kept running.\n- In a race against recorded runs, finishers stay in the order they finished instead of being sorted by name.\n- A player's profile card opens in front of the Daily window, and the Daily board shows the same marks as every other board.\n- A name on a board opens the \"playing without an account\" card only when the server says that player has no account.\n- Security: player names and messages from the server are always shown as plain text, everywhere in the game. A name can no longer contain < > \" ' & or a backtick.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/Freecell-Update.exe",
-          "size": 143447272,
-          "sha256": "1e4e5d68457295b9cd397e8e0f14345ec5fbd69c49f82c2d7e66b79bc43b46c7"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.51/Freecell-Update.exe",
+          "size": 143482832,
+          "sha256": "a5caf3c62f68b0219805412d07fadf04ff3093a2618e10064066eadb3e548c5a"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 142441093,
-          "sha256": "ea4e02511f2cdeeb85000e9e7fee690db4d090c3f4361f587659b11cd3767749"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.51/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 142470502,
+          "sha256": "2959556d8bb4b783df495475db9e8a68a3c63ec5b9d24ef8f224c1bae4a7d8db"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/MSOFreeCell-Update-mac-x64.zip",
-          "size": 149666272,
-          "sha256": "9c7d31b52dbe54fcd3e2f19c17239498d4f7445fc8fcf7ee6ffee545de6c0444"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.51/MSOFreeCell-Update-mac-x64.zip",
+          "size": 149695653,
+          "sha256": "0ef9a64425cab820ef80ef119a2e380869f242d27ad1596ee0783599b639b205"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.50/Freecell-Update-Linux.AppImage",
-          "size": 156451564,
-          "sha256": "10094f3f45ebff3603ab3759d4d01ce8409d180b020a55121ed6f50a34481840"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.51/Freecell-Update-Linux.AppImage",
+          "size": 156463938,
+          "sha256": "29305c80f5b948255647ad9e435c2e9ecbd00b0263196c48a176a72507d9c418"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.93",
-      "releaseDate": "2026-11-09",
-      "releaseNotes": "Shared fixes with MSO FreeCell Arena 1.4.50: the sign-in and create-account windows keep their buttons in view when the form is taller than the screen, anchored pop-up cards stay fully on screen, and too many sign-in attempts says so plainly.",
+      "version": "1.1.94",
+      "releaseDate": "2026-11-16",
+      "releaseNotes": "The board zooms: the mouse wheel zooms in and out, dragging a revealed square moves the board, and Fit returns it to the window. Your level shows beside your name (Lv 7) on rosters, results and boards, from level 2 up. Security: player names and messages from the server are always shown as plain text.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/Minesweeper-Update.exe",
-          "size": 124672776,
-          "sha256": "8e5addc718d937b69b2776cea99f5608b2d9edd6238789d4b321ae56af508d99"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.94/Minesweeper-Update.exe",
+          "size": 124705728,
+          "sha256": "fa16875a83853d4681f52dd84a4d71a70ded26fb0b10fa39086dd14c52a291ab"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 120553443,
-          "sha256": "b50141e1939b997ec2ec1a29d7748a7c9942a5c6f04bc00e178c95b15e0320da"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.94/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 120598246,
+          "sha256": "08d70bc98ad292b209df2c1ae0e915419862e0899f493a03344d49cf38608273"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 127778636,
-          "sha256": "0fa8e6f08f5662c12d67aaa4a741f1204da8f69bcb86b6803583e0f396104155"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.94/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 127823407,
+          "sha256": "d8fbbfd0d92b9a0cfeb547db1922284206497af2727cf7a69b178455c534ad47"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.93/Minesweeper-Update-Linux.AppImage",
-          "size": 134720123,
-          "sha256": "3e7ce18bd2c91c8c80db34057cc6182bc4fea7082f3164a1def13a9a7f84d8ef"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.94/Minesweeper-Update-Linux.AppImage",
+          "size": 134773506,
+          "sha256": "17f3a8494dda64cf79057a47733af19210765a111fa81e21895badfb87cf6e71"
         }
       }
     }
