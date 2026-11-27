@@ -14,56 +14,56 @@
   },
   "games": {
     "freecell": {
-      "version": "1.4.53",
-      "releaseDate": "2026-11-24",
-      "releaseNotes": "Group Play fixes: Watch My Replay from a round result, Feedback button, name alignment. Game Center sign-in on iPhone and iPad.",
+      "version": "1.4.54",
+      "releaseDate": "2026-11-27",
+      "releaseNotes": "The Race chip gets its own strip on any edge; Large print keeps long columns on the board.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.53/Freecell-Update.exe",
-          "size": 143858408,
-          "sha256": "58254f2aa94144aed5e2f38be7ba2a077b6eeae03ba886fa1de88804cffa62a4"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.54/Freecell-Update.exe",
+          "size": 143944600,
+          "sha256": "fa738957f88cf35f2aa35e7022c45ccc5a8aa968803cfcd4e46223290fa1368a"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.53/MSOFreeCell-Update-mac-arm64.zip",
-          "size": 142782787,
-          "sha256": "946ee560b0ffbdfff6948a152c2b8a7749bc79fbd5ffb94d7b8fcc52f69c0960"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.54/MSOFreeCell-Update-mac-arm64.zip",
+          "size": 142884329,
+          "sha256": "14390cb6071016e8ee6a03d20b8d0e2c2b02246385a3669e520bfd22bf7d23ef"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.53/MSOFreeCell-Update-mac-x64.zip",
-          "size": 150007992,
-          "sha256": "18d5588f6262f429ebde32e7fa740cf9066d8d576e30903dadd6014ee6dabee3"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.54/MSOFreeCell-Update-mac-x64.zip",
+          "size": 150109485,
+          "sha256": "46d4b9514551e52ef7d391adaa4ac18aebb909b2250d7fa17eaa7be9e20743c7"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.53/Freecell-Update-Linux.AppImage",
-          "size": 157234908,
-          "sha256": "9f91ef43229a0221cb6902cf5304b1e13409152cdc1649059b0ff5b0a278db96"
+          "url": "https://github.com/MSOGames/Freecell/releases/download/v1.4.54/Freecell-Update-Linux.AppImage",
+          "size": 157423696,
+          "sha256": "f1a1fca24108fbeb4282f396ec36377348e40849fc6e97c63cff893d05ad95b8"
         }
       }
     },
     "minesweeper": {
-      "version": "1.1.96",
-      "releaseDate": "2026-11-24",
-      "releaseNotes": "Group Play fixes: Watch My Replay from a round result, Feedback button, name alignment.",
+      "version": "1.1.97",
+      "releaseDate": "2026-11-27",
+      "releaseNotes": "The Race chip gets its own strip on any edge.",
       "platforms": {
         "win32-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.96/Minesweeper-Update.exe",
-          "size": 125093856,
-          "sha256": "8a7a3123a5d8a72c5add4886ac6218efd6b2a7422b8509e7c67a989c594409ab"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.97/Minesweeper-Update.exe",
+          "size": 125154184,
+          "sha256": "cea0dea6424ffb8efd18b89c59c2886cf9e188bce217c222325874bff287815d"
         },
         "darwin-arm64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.96/MSOMinesweeper-Update-mac-arm64.zip",
-          "size": 121009732,
-          "sha256": "aa373afd8f3e68fbc6a4af4fa0c51f220e7733dbb751b8caf526d0b1e97e98c0"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.97/MSOMinesweeper-Update-mac-arm64.zip",
+          "size": 121089589,
+          "sha256": "2b0fd0b83348e4ca03abab07691f06a2c73e9128fdadd1caa327e919a5463432"
         },
         "darwin-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.96/MSOMinesweeper-Update-mac-x64.zip",
-          "size": 128234897,
-          "sha256": "d2301df2e3e23e9fb7c664326c407cd05c3a11a6c4a60e841900fb1ea5aef2e4"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.97/MSOMinesweeper-Update-mac-x64.zip",
+          "size": 128314801,
+          "sha256": "f9dc1bc74792abd73c8ee2ae4b3395d8ff5cc04cdcb26be96b0c50e0426f8ddf"
         },
         "linux-x64": {
-          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.96/Minesweeper-Update-Linux.AppImage",
-          "size": 135974740,
-          "sha256": "072c15b82a5859670afb0cf311580bcb6e34b685b60ee06c9232c1f38e8cbdb2"
+          "url": "https://github.com/MSOGames/Minesweeper/releases/download/v1.1.97/Minesweeper-Update-Linux.AppImage",
+          "size": 136057130,
+          "sha256": "5cdb51e0b0e811aae7642e65e4e99d8850f6dc9b44110aa58f0465e5a6af8461"
         }
       }
     }
